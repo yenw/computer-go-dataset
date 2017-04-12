@@ -12,25 +12,45 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
 1.1 Format(index)
 ------
 * id
+  * TYGEM id
 * date
+  * YYYY.MM.DD HH:MM
 * white
+  * char[10]
 * white english
+  * char[10]
 * white nation
+  * 0 Korea
+  * 1 Japan
+  * 2 China
+  * 3 USA
+  * 4 Taiwan
+  * 5 China
 * black
+  * char[10]
 * black english
+  * char[10]
 * black nation
+  * 0 Korea
+  * 1 Japan
+  * 2 China
+  * 3 USA
+  * 4 Taiwan
+  * 5 China
 * komi
+  * 7.5
 * result
+  * B+Resign
+  * W+Resign
+  * B+X.5
+  * W+X.5
+  * B+Time
+  * W+Time
+  * B+Offline
+  * W+Offline
 * round
+  * 60 - 400
 * byoyomi/times minutes
-
-nation
-* 0 Korea
-* 1 Japan
-* 2 China
-* 3 USA
-* 4 Taiwan
-* 5 China
 
 1.2 Format(kifu)
 ------
