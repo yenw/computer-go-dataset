@@ -80,6 +80,17 @@ TOM "9D vs 9D" dataset (50,956 games).
 ------
 id\t;B[coord];W[coord];B[coord];W[coord]......
 
+
+3 GoGoD dataset
+======
+89,941 games (GoGoD Winter 2016 collection). 
+
+Includes newest AlphaGo/Master games.
+
+4 KGS dataset
+======
+[website](https://u-go.net/gamerecords/)
+
 Licensing
 ------
 The repository is licensed under GPL v3. License is available [here](LICENSE.txt).
