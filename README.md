@@ -49,7 +49,7 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
   * B+Offline
   * W+Offline
 * round
-  * 60 - 400
+  * 60 - 450
 * byoyomi/times minutes
 
 1.2 Format(kifu)
