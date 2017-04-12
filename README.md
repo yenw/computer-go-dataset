@@ -57,3 +57,7 @@ TOM "9D vs 9D" dataset (50,956 games).
 2.2 Format(kifu)
 ------
 id\t;B[coord];W[coord];B[coord];W[coord]......
+
+Licensing
+------
+The repository is licensed under GPL v3. License is available [here](LICENSE.txt).
