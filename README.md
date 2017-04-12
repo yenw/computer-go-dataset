@@ -52,6 +52,8 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
   * 60 - 450
 * byoyomi/times minutes
 
+Due to the 25 MB file size limit, I have to split the ".index" file. You can merge it by yourself.
+
 1.2 Format(kifu)
 ------
 id\t;B[coord];W[coord];B[coord];W[coord]......
