@@ -4,7 +4,7 @@ SGF
 
 1 TYGEM dataset
 ======
-2015.11.02 - 2016.12.31
+2005.11.02 - 2016.12.31
 
 TYGEM "9D vs 9D" dataset (1,516,031 games).
 
