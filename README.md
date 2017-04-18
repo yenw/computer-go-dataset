@@ -38,7 +38,7 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
   * 4 Taiwan
   * 5 China
 * komi
-  * 7.5
+  * 6.5
 * result
   * B+Resign
   * W+Resign
@@ -71,6 +71,7 @@ TOM "9D vs 9D" dataset (50,956 games).
 * white
 * black
 * komi
+  * 7.5
 * result
 * round
 * byoyomi/times minutes
