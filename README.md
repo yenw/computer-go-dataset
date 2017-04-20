@@ -89,7 +89,11 @@ TOM "9D vs 9D" dataset (50,956 games).
 ------
 id\t;B[coord];W[coord];B[coord];W[coord]......
 
-3 KGS dataset
+3 Aya's selfplay games for training value network
+======
+[Aya's selfplay games](http://www.yss-aya.com/ayaself/ayaself.html)
+
+4 KGS dataset
 ======
 [website](https://u-go.net/gamerecords/)
 
