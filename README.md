@@ -58,6 +58,14 @@ Due to the 25 MB file size limit, I have to split the ".index" file. You can mer
 ------
 id\t;B[coord];W[coord];B[coord];W[coord]......
 
+1.3 Convert to SGF
+------
+Thanks for [Hiroshi Yamashita](http://www.yss-aya.com/) writing the converter tool.
+
+[tygem_convert.tar.gz](http://www.yss-aya.com/20170418tygem_convert.tar.gz)
+
+
+
 2 TOM dataset
 ======
 2003.09.25 - 2011.12.28
