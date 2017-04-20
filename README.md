@@ -93,10 +93,50 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
 ======
 [Aya's selfplay games](http://www.yss-aya.com/ayaself/ayaself.html)
 
-4 KGS dataset
+4 Professional
+======
+1940.01.01 - 2017.01.09
+
+73,522 games (Includes newest AlphaGo/Master games)
+
+4.1 Format(txt)
+------
+SGF\nSGF\nSGF\n...
+
+4.2 SGF tags
+------
+* GM
+  * 1
+* FF
+  * 4
+* SZ
+  * 19
+* AP
+* CA
+  * UTF-8
+* GN
+* PW
+* WR (option)
+* PB
+* BR (option)
+* KM (option)
+  * 0 <= komi <= 8
+* RE
+  * B+
+  * W+
+  * B+X
+  * W+X
+  * B+R
+  * W+R
+  * B+T
+  * W+T
+
+* B/W/B/W ...
+
+5 KGS dataset
 ======
 [website](https://u-go.net/gamerecords/)
 
 Licensing
-------
+======
 The repository is licensed under GPL v3. License is available [here](LICENSE.txt).
