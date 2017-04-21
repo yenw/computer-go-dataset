@@ -15,6 +15,8 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
   * TYGEM id
 * date
   * YYYY.MM.DD HH:MM
+  * !! This is the start of the game, not the end of the game. 
+  * !! The assert(id_1 > id_2 && date_1 > date_2) maybe false. 
 * white
   * char[10]
 * white english
