@@ -106,7 +106,7 @@ default:
   * 9d
 * black rank
   * 9d
- * type
+* type
   * ranked
 * CA
   * UTF-8
