@@ -37,8 +37,6 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
   * 3 USA
   * 4 Taiwan
   * 5 China
-* komi
-  * 6.5
 * result
   * B+Resign
   * W+Resign
@@ -51,6 +49,11 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
 * round
   * 60 - 450
 * byoyomi/times minutes
+
+default:
+
+* komi
+  * 6.5
 
 Due to the 25 MB file size limit, I have to split the ".index" file. You can merge it by yourself.
 
