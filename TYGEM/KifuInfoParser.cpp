@@ -7,9 +7,10 @@ void TYGEM::KifuInfoParser(uint8_t* p, size_t n)
 
         //number
         int num = 0;
-        do num = num * 256 + p[i++];
-        while(i < 4 + it)
-            ;
+        do
+            num = num * 256 + p[i++];
+        while(i < 4 + it);
+
         if (num < 75803708)
             return;
 
