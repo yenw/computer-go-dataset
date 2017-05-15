@@ -166,6 +166,9 @@ SGF\nSGF\nSGF\n...
 5 AI dataset
 ======
 * AlphaGo
+  * AlphaGo vs Fan Hui
+    * 3 games
+    * 5W / 0L / 100%
   * AlphaGo vs Lee Sedol
     * 5 games
     * 4W / 1L / 80%
