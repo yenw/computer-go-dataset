@@ -195,10 +195,16 @@ SGF\nSGF\nSGF\n...
     * 2016.12.27 - 2017.01.02
     * 38W / 7L / 84.44%
 * Zen
-  * DeepZenGo (Fox Go Server)
+  * DeepZenGo
+    * Fox Go Server
     * 86 games
     * 2016.11.19 - 2017.05.15
     * 71W / 15L / 82.55%
+  * DeepZen(P)
+    * TYGEM
+    * 2361 games
+    * 2016.12.29 - 2017.05.16
+    * 1953W / 408L / 82.71%
 
 6 KGS dataset
 ======
