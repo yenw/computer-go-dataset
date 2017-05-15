@@ -187,7 +187,7 @@ SGF\nSGF\nSGF\n...
     * 2016.10.21 - 2017.05.15
     * Old version of FineArt
     * 265W / 36L / 88.03%
-  * Xing Tian
+  * Xing Tian
     * 45 games
     * 2016.12.27 - 2017.01.02
     * 38W / 7L / 84.44%
