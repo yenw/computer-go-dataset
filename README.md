@@ -163,7 +163,32 @@ SGF\nSGF\nSGF\n...
 
 * B/W/B/W ...
 
-5 KGS dataset
+5 AI dataset
+======
+* AlphaGo
+  * AlphaGo vs Lee Sedol
+    * 5 games
+    * 4W / 1L / 80%
+  * AlphaGo selfplay
+    * 3 games
+  * Master
+    * 60 games
+    * 60W / 0L / 100%
+* FineArt
+  * FineArt
+    * 590 games
+    * 2016.11.01 - 2017.05.12
+    * 454W / 136L / 76.94%
+  * FineArt UEC
+    * 11 games
+    * 11W / 0L / 100%
+  * Li Long
+    * 301 games
+    * 2016.10.21 - 2017.05.15
+    * Old version of FineArt
+    * 265W / 36L / 88.03%
+
+6 KGS dataset
 ======
 [website](https://u-go.net/gamerecords/)
 
