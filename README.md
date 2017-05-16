@@ -197,6 +197,10 @@ SGF\nSGF\nSGF\n...
     * 55 games
     * 2016.09.02 - 2016.10.05
     * 38W / 17L / 69.09%
+  * Tiger
+    * 63 games
+    * 2016.07.28 - 2016.10.28
+    * 42W / 21L / 66.66%
 * Zen
   * DeepZenGo
     * Fox Go Server
