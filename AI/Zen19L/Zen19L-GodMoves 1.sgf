@@ -1,0 +1,605 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+PW[Zen19L]PB[GodMoves]WR[9d]DT[2016-11-29]PC[The KGS Go Server at http://www.gokgs.com/]C[Zen19L [9d\]: GTP Engine for Zen19L (white): Zen version 13.1
+]RE[B+Resign]
+;B[pd]BL[1796.251]C[Thundergod [6d\]: ah,way too slow
+]
+;W[dp]WL[1789.655]
+;B[cd]BL[1789.653]C[Zonked [3d\]: it was a bit suprise resignation
+]
+;W[pp]WL[1778.326]
+;B[cn]BL[1785.266]C[neik [2k\]: it's going to be another game with w+res
+]
+;W[fq]WL[1770.126]
+;B[ic]BL[1782.087]C[dguerrero [1k\]: "Godmoves"... Quite a nickname
+r2doubleg [4k\]: finally a fast player
+CrabMan [4k\]: The bar is high.
+]
+;W[co]WL[1751.82]
+;B[dn]BL[1777.341]C[Cam [-\]: another guest account though
+Cam [-\]: who knows what we're in for
+]
+;W[dj]WL[1745.925]
+;B[dh]BL[1773.289]C[Zonked [3d\]: maybe its ke jie playing
+Cam [-\]: on IGS I see basically every 10 kyu playing chinese opening...
+sasha97 [5d?\]: ahaha
+]
+;W[fj]WL[1728.893]
+;B[gn]BL[1768.985]C[USSRMan [3d\]: i dont think ke jie likes chinese opening
+]
+;W[gp]WL[1724.859]
+;B[fh]BL[1762.279]C[pokamon [1k\]: godmoves s a nickname for  low dans
+Rotfuchs [3k\]: is f12 a god move?
+]
+;W[gl]WL[1711.362]C[Cam [-\]: yes
+sasha97 [5d?\]: why?
+Cam [-\]: by definition
+Cam [-\]: it's a godmoves move
+]
+;B[in]BL[1744.586]C[BobWhoosta [1d\]: Black is about to get cut.
+]
+;W[il]WL[1701.446]C[sasha97 [5d?\]: pokamon [1k\]: godmoves s a nickname for  low dans   --- why?
+]
+;B[jp]BL[1735.052]C[Zonked [3d\]: bobwhoosta, questionable value, u want to give b sente ponnuki?
+]
+;W[mp]WL[1687.81]
+;B[km]BL[1728.955]C[BobWhoosta [1d\]: Apparently not.
+BobWhoosta [1d\]: ;-P
+]
+;W[kk]WL[1675.962]
+;B[hi]BL[1723.469]C[lonepeak: because good players have nickname like ddcg
+megaschaf [2k\]: This looks like 2k black
+Zonked [3d\]: and sniper1994...
+]
+;W[fn]WL[1663.479]C[USSRMan [3d\]: pwnuki in early game is 30 points, in yose is 1 point
+]
+;B[ep]BL[1718.9]C[pokamon [1k\]: sure lonepeak
+Zonked [3d\]: and zenkiler
+]
+;W[eq]WL[1649.759]
+;B[cq]BL[1714.685]C[konrad [?\]: heh
+]
+;W[do]WL[1636.542]C[BobWhoosta [1d\]: This black is either really good or highish kyu.
+]
+;B[fm]BL[1709.229]
+;W[en]WL[1625.53]C[Rotfuchs [3k\]: i vote latter
+]
+;B[gm]BL[1700.673]C[dguerrero [1k\]: kyu.
+Zonked [3d\]: I vote for really good
+]
+;W[dm]WL[1614.929]C[megaschaf [2k\]: I go for kyu
+]
+;B[ek]BL[1691.887]C[pokamon [1k\]: i think who strong player would choose a name like godmoves?
+lonepeak: w early cut b- black not a pro! EZiest thing
+]
+;W[ej]WL[1608.406]
+;B[gk]BL[1687.729]C[BobWhoosta [1d\]: I'm going just by his moves.
+Nodos [2k\]: he is between 5k and 9d
+BobWhoosta [1d\]: I don't care about nickname.
+]
+;W[fk]WL[1599.197]C[BobWhoosta [1d\]: Higher than 5k.
+]
+;B[hl]BL[1682.22]C[BobWhoosta [1d\]: I think like 5 or 6d.
+Zonked [3d\]: b early cut w- white not a pro! EZiest thing
+]
+;W[gj]WL[1579.341]C[BobWhoosta [1d\]: Maybe higher.
+konrad [?\]: this pro nick conversation remind me counterstrike scene where all good old players have specific short nicks
+]
+;B[fl]BL[1678.37]
+;W[hj]WL[1576.455]
+;B[ii]BL[1673.221]
+;W[im]WL[1563.556]
+;B[jn]BL[1668.72]C[Rotfuchs [3k\]: does w get the whole lower left right now?
+pokamon [1k\]: sigmund freud would say : don´t use your mothers name as nickname
+]
+;W[ij]WL[1549.747]C[CrabMan [4k\]: left or right?
+]
+;B[ki]BL[1663.474]
+;W[mk]WL[1534.378]C[Zonked [3d\]: b is building something smallish at the top too
+BobWhoosta [1d\]: There's a lot of aji in the lower left.
+]
+;B[mm]BL[1658.616]C[BobWhoosta [1d\]: But for right now it's all whites.
+Nodos [2k\]: this will be interesting
+]
+;W[ed]WL[1521.494]C[blackhawk [1d\]: top looks very kyuish
+Nodos [2k\]: zen will have to invade top
+]
+;B[gc]BL[1653.002]C[dguerrero [1k\]: Nodos, you think like a bot.
+blackhawk [1d\]: g17?
+]
+;W[eg]WL[1507.177]
+;B[eh]BL[1648.934]C[lonepeak: bot 9d mb he is good
+lonepeak: xD
+loea [2k\]: if God is Supreme Estimator GodMoves are the move SE would do?
+loea [2k\]: so zen get no chances then
+]
+;W[cf]WL[1487.149]C[BobWhoosta [1d\]: If black gets something around C12 there is tons of aji at the top.
+]
+;B[cg]BL[1643.946]C[Nodos [2k\]: c15
+]
+;W[ce]WL[1475.256]
+;B[dd]BL[1640.911]C[Nodos [2k\]: :D
+Cam [-\]: haha, replace Zen's value network with the KGS Score Estimator
+]
+;W[ee]WL[1471.32]C[lonepeak: ahahah
+Zonked [3d\]: this w group dont look too healthy
+Cam [-\]: it'll be unstoppable
+]
+;B[ec]BL[1636.25]C[BobWhoosta [1d\]: Cam, that's crazy.
+]
+;W[fc]WL[1465.573]
+;B[eb]BL[1633.033]C[r2doubleg [4k\]: sherlock would be proud, "science of deduction" goin on here
+]
+;W[gd]WL[1461.926]C[Nodos [2k\]: if w lives here then it's over
+]
+;B[fb]BL[1627.763]C[Zonked [3d\]: nodos, no
+Nodos [2k\]: yes
+BobWhoosta [1d\]: Black is a strong player, at least mid dan.
+blackhawk [1d\]: anyone doubt w lives?
+]
+;W[id]WL[1445.475]
+;B[fd]BL[1623.982]
+;W[ge]WL[1442.339]
+;B[jd]BL[1621.935]C[MooP: of course w should live
+BobWhoosta [1d\]: White will live, but black should profit.
+Denmla [2k\]: w is not that rich in cash still
+Crashdown [12k?\]: for the troll, i would like to make a "kibbitz bot"
+]
+;W[je]WL[1427.018]C[BobWhoosta [1d\]: The question is can black maintain the balance without H11 becoming weak?
+]
+;B[ie]BL[1616.526]C[Crashdown [12k?\]: like twitchplaysgo
+]
+;W[if]WL[1424.181]C[Zonked [3d\]: crashdown, there is bluetable already
+]
+;B[hd]BL[1614.396]C[Nodos [2k\]: b needs to profite enough to make up for lower left, and thats not going to happen most likely
+]
+;W[he]WL[1421.337]
+;B[id]BL[1610.724]C[firehorse [4k\]: large dead black group shaping up in middle
+senkise [3k\]: careful with the wall
+]
+;W[gh]WL[1408.148]C[Cam [-\]: bluetable isn't watching this game though
+]
+;B[gg]BL[1605.507]C[Cam [-\]: we need a reliable kibitz bot
+Zonked [3d\]: bluetable stays silent when thereis enough kibitz
+]
+;W[hg]WL[1397.978]
+;B[gi]BL[1601.387]
+;W[hh]WL[1394.936]C[BobWhoosta [1d\]: Black is really strong.
+]
+;B[fg]BL[1596.959]
+;W[fe]WL[1392.098]
+;B[fi]BL[1593.297]C[Denmla [2k\]: there's never enough kibitz:)
+GoNuts [3k\]: alphago will play and spam google adwords :)
+]
+;W[kg]WL[1380.868]C[cohen [?\]: I saw is a 9d who beat zen
+]
+;B[ke]BL[1588.195]C[cohen [?\]: Buba i think
+BobWhoosta [1d\]: K10 isn't necessary?
+Cam [-\]: biba
+]
+;W[mg]WL[1373.325]C[cohen [?\]: Is called
+cohen [?\]: Yeah
+]
+;B[lg]BL[1582.455]C[BobWhoosta [1d\]: I'm scared of the wedge.
+Zonked [3d\]: hope this works
+Nodos [2k\]: lol
+Nodos [2k\]: this wedge is wtf
+pokamon [1k\]: b toasted
+]
+;W[jh]WL[1362.733]C[Crashdown [12k?\]: no, kibbitzbot to plays move that the stream/kibbitz says
+cohen [?\]: Seems boot is not nr1 on kgs
+]
+;B[jf]BL[1571.818]C[BobWhoosta [1d\]: Wow.
+]
+;W[jg]WL[1352.351]
+;B[ji]BL[1567.822]
+;W[lh]WL[1344.058]C[BobWhoosta [1d\]: I'm starting to think black is professional strength.
+]
+;B[lf]BL[1562.892]
+;W[kh]WL[1341.162]C[Rotfuchs [3k\]: b dead
+Nodos [2k\]: you sure?
+]
+;B[ih]BL[1560.337]
+;W[ig]WL[1338.33]C[dguerrero [1k\]: ???
+]
+;B[lj]BL[1558.89]C[MooP: m14 was a failure
+wurfmaul [2d\]: cohen, there is a top 100 list: http://www.gokgs.com/top100.jsp
+trust: I was starting to think the exact opposite
+BobWhoosta [1d\]: Black still gets out here.
+]
+;W[lk]WL[1319.616]C[Nodos [2k\]: i don't think a pro would play the wedge b played
+]
+;B[mj]BL[1555.728]C[Zonked [3d\]: and w still dont have two eyes
+]
+;W[nh]WL[1314.719]C[Cam [-\]: Well, Zen19L isn't at the top of that list :PO
+Zonked [3d\]: chase continues
+]
+;B[oj]BL[1549.909]C[BobWhoosta [1d\]: White is still under attack.
+BobWhoosta [1d\]: And black got profit.
+BobWhoosta [1d\]: So the wedge worked fine.
+Zonked [3d\]: there is also some annoying aji in bottom left corner
+dguerrero [1k\]: W has 1 weak group. B has 2
+]
+;W[oe]WL[1294.391]C[BobWhoosta [1d\]: White's shape is worse than black's.
+MooP: what do you mean? the wedge helped w go out
+]
+;B[nk]BL[1544.586]C[MooP: the wedge was bad
+Zonked [3d\]: pretty sure b gets life in bottom left, or cut at d8
+Nodos [2k\]: no, the wedge did nothing but solidify white
+Crashdown [12k?\]: woah
+BobWhoosta [1d\]: No, the wedge helped black go out faster.
+]
+;W[nl]WL[1280.211]
+;B[ph]BL[1539.357]C[MooP: lol
+]
+;W[pe]WL[1271.596]C[BobWhoosta [1d\]: Is white solid here?
+]
+;B[qd]BL[1533.875]C[BobWhoosta [1d\]: He has no eyeshape, and black is surrounding.
+Zonked [3d\]: safe to say no low dan would have suvived playing the way b did
+lonepeak: at least b have good reading skills - pretty fast
+BobWhoosta [1d\]: Zonked, for real.
+]
+;W[od]WL[1255.176]
+;B[nf]BL[1529.166]
+;W[og]WL[1241.088]C[Nodos [2k\]: p15 was interesting
+Denmla [2k\]: B is blitzing
+dguerrero [1k\]: Well... That' strue
+BobWhoosta [1d\]: Black has been poking out white's shape and staying ahead the whole way.
+]
+;B[of]BL[1525.178]
+;W[pg]WL[1231.139]
+;B[pf]BL[1521.772]C[cohen [?\]: So is #1 dfkk, leqi and bisushield andvthen zen
+cohen [?\]: Cool
+]
+;W[qf]WL[1226.122]C[Nodos [2k\]: also, white has no eyeshape because he invaded a heavy influence b area
+]
+;B[qe]BL[1517.882]C[selena [3d\]: overplay/
+]
+;W[mf]WL[1218.731]
+;B[ne]BL[1517.145]C[Nodos [2k\]: the wedge did absolutely nothing but make white a solid wall
+BobWhoosta [1d\]: Okay, we disagree.
+]
+;W[me]WL[1202.97]
+;B[nd]BL[1513.274]
+;W[qh]WL[1200.118]
+;B[rf]BL[1507.548]
+;W[pi]WL[1183.097]
+;B[pj]BL[1503.393]C[Nodos [2k\]: if b somwhow wins this game, you may have a point
+Zonked [3d\]: actually, this playstyle reminds me of.. https://youtu.be/PEw3FxkrAzg?list=PLGABQ-h8rcIbJhpxlsgaH61vx6IhkwLxv
+]
+;W[qj]WL[1173.168]
+;B[qk]BL[1500.777]C[BobWhoosta [1d\]: No, I either have a point or I don't.
+BobWhoosta [1d\]: And we disagree on that.
+]
+;W[ok]WL[1161.619]C[BobWhoosta [1d\]: I'm fine leaving it there.
+]
+;B[oi]BL[1495.483]
+;W[oh]WL[1150.953]
+;B[mi]BL[1491.702]C[selena [3d\]: good
+BobWhoosta [1d\]: Awesome.
+Zonked [3d\]: w just got pwnd
+]
+;W[le]WL[1141.857]
+;B[rj]BL[1487.261]C[Zonked [3d\]: p9 lookslike major mistake
+Nodos [2k\]: "we disagree" when all your argument were debunked
+Nodos [2k\]: run away harder
+]
+;W[ri]WL[1129.352]
+;B[qi]BL[1483.663]C[BobWhoosta [1d\]: Nodos, why would we talk further?  You said your stuff.
+BobWhoosta [1d\]: Then you repeated it.
+]
+;W[bd]WL[1109.6]C[trust: not everything is a debate 
+]
+;B[bc]BL[1477.893]C[BobWhoosta [1d\]: I'd like to watch the 40 moves past our argument game now.
+]
+;W[qj]WL[1106.794]
+;B[mh]BL[1477.065]
+;W[kf]WL[1099.996]C[BobWhoosta [1d\]: Thanks for the chat.
+]
+;B[ng]BL[1473.846]
+;W[kd]WL[1095.937]
+;B[bo]BL[1468.183]C[Crashdown [12k?\]: woah
+]
+;W[bn]WL[1085.405]C[Rotfuchs [3k\]: this is interesting
+Nodos [2k\]: you're the one who repeated, then dismissed when your argument was countered
+reaf [?\]: this can't be too good for white
+]
+;B[cm]BL[1465.099]
+;W[bm]WL[1081.283]
+;B[cl]BL[1461.284]
+;W[dl]WL[1078.474]C[firehorse [4k\]: you guys are missing a good match
+]
+;B[ck]BL[1456.671]
+;W[dk]WL[1075.689]
+;B[cj]BL[1454.371]C[Nodos [2k\]: you think i can't watch the match?
+Nodos [2k\]: come on
+]
+;W[ci]WL[1069.085]
+;B[bi]BL[1453.598]C[dguerrero [1k\]: You guys are missing a match between bad shapes.
+firehorse [4k\]: not 100% with that kind of energy
+Rotfuchs [3k\]: k6 stones not fully alive yet?
+firehorse [4k\]: i'm the same way so i know
+]
+;W[bj]WL[1055.143]
+;B[di]BL[1445.781]C[Zonked [3d\]: so, b is.. top 20 pro?
+]
+;W[bk]WL[1052.248]C[BobWhoosta [1d\]: Nice squeeze.
+]
+;B[ch]BL[1445.105]
+;W[bl]WL[1049.333]
+;B[ci]BL[1444.027]C[senkise [3k\]: g6 stones...
+Nodos [2k\]: don't compare yourself to others
+]
+;W[bp]WL[1046.494]C[BobWhoosta [1d\]: b is at least pro.
+ZeNit [?\]: I'm missing the match, the match in the chat is too distracting
+]
+;B[no]BL[1437.705]C[Nodos [2k\]: especially people you know nothing about
+firehorse [4k\]: impossible not to
+Crashdown [12k?\]: reduced left in sente
+]
+;W[rk]WL[1035.634]C[Crashdown [12k?\]: seems legit
+]
+;B[qi]BL[1433.325]
+;W[ln]WL[1025.112]C[Zonked [3d\]: most reasonably strong pros have to use lots and lots of time to make it a game against zen
+]
+;B[lm]BL[1427.566]
+;W[qj]WL[1016.842]C[senkise [3k\]: s14 was very expensive
+]
+;B[qg]BL[1426.556]C[Zonked [3d\]: this dude just blitzes and is doing ok
+lonepeak: we didn't have here strong pro...
+]
+;W[sj]WL[1004.68]C[lonepeak: it's kgs not tygem
+BobWhoosta [1d\]: Why R13?
+]
+;B[pk]BL[1418.413]C[ZeNit [?\]: maybe he's a pro blitzer
+Denmla [2k\]: I'd say B at least learned for a pro player
+BobWhoosta [1d\]: Oh, I see.
+]
+;W[ol]WL[998.518]C[Zonked [3d\]: cho chickun, and BIBA are top 150 pros
+]
+;B[ni]BL[1410.288]
+;W[qm]WL[987.544]C[ohyou [-\]: how can you claim that at 2k?
+]
+;B[ph]BL[1404.906]C[Nodos [2k\]: heh
+MooP: biba is inactive?
+cohen [?\]: Who is biba?
+lonepeak: easy claim - it's 2k
+]
+;W[kj]WL[974.305]C[senkise [3k\]: l6 dies?
+Rotfuchs [3k\]: im worried about k6 stones
+]
+;B[li]BL[1400.242]C[MooP: i mean, biba isn't inactive?
+BobWhoosta [1d\]: What about the L7 group?
+Crashdown [12k?\]: yeah, living in l7 will be the key here
+]
+;W[lq]WL[954.678]C[Zonked [3d\]: d7?
+]
+;B[je]BL[1395.381]C[Rotfuchs [3k\]: hoo boy
+Crashdown [12k?\]: wtf
+Zonked [3d\]: oh, this w dragon isnt even alive yet
+firehorse [4k\]: vicious
+BobWhoosta [1d\]: I was thinking L3 instead of M3, but I think M3 better.
+]
+;W[lc]WL[943.235]
+;B[md]BL[1388.117]C[mnoplol [1d\]: you take the bottom, i will have the top
+ZeNit [?\]: kill everything!
+tehrei: im scared for the bottom
+]
+;W[ld]WL[933.524]
+;B[mb]BL[1387.297]C[Onchyru [1d\]: isnst l7 group bigger?
+BobWhoosta [1d\]: Awesome.
+mnoplol [1d\]: b so strong
+]
+;W[mc]WL[921.884]C[Crashdown [12k?\]: don't care about bottom
+]
+;B[nb]BL[1383.36]C[Rotfuchs [3k\]: top dead
+ZeNit [?\]: no, this is bigger
+BobWhoosta [1d\]: I think it's fine because R3 is still there.
+Orc [7k?\]: is white dead?
+Zonked [3d\]: maybe my initial guess regarding b being Ke Jie wasnt that far off
+Rotfuchs [3k\]: lol
+firehorse [4k\]: w is dead to my eyes
+]
+;W[be]WL[904.835]C[BobWhoosta [1d\]: And K4 has LOTS of aji.
+Rotfuchs [3k\]: what a weird game
+]
+;B[bg]BL[1379.358]C[selena [3d\]: kill
+Rotfuchs [3k\]: b15, zen pls
+F19: b15, omg
+BobWhoosta [1d\]: Amazing that Zen's huge dragon died.
+megaschaf [2k\]: Ill take that with the 2k back ^^
+]
+;W[mn]WL[890.942]C[tehrei: lets see b live now
+blackhawk [1d\]: w wins i b gets killed on the other side of the board
+]
+;B[ml]BL[1372.555]C[Rotfuchs [3k\]: so just r3 and end it?
+BobWhoosta [1d\]: H4?
+Zonked [3d\]: now zen tries to kill bottom.. but.. I dont think it matters
+]
+;W[nj]WL[878.035]C[anmollov [6k\]: godmoves is a strongest player in kgs
+selena [3d\]: ugrycut
+]
+;B[nm]BL[1364.23]
+;W[om]WL[867.411]
+;B[nn]BL[1360.605]C[Denmla [2k\]: he choose a correct nick
+senkise [3k\]: do you remember roseduke?
+]
+;W[np]WL[859.025]
+;B[go]BL[1354.503]C[ZeNit [?\]: I member
+BobWhoosta [1d\]: If this lives, I'm going to say top pro.
+Crashdown [12k?\]: B is tartrate *troll*
+blackhawk [1d\]: r3 maybe enough?
+r2doubleg [4k\]: have to ask admins this guys ip so i can track him down
+senkise [3k\]: godmoves' style reminds me of roseduke
+]
+;W[ip]WL[841.098]
+;B[em]BL[1350.646]C[BobWhoosta [1d\]: G5 is a great move.
+Jonsoncao [4k\]: how funny earlier in the game ppl said b is like kyu
+Zonked [3d\]: b h4, lol
+BobWhoosta [1d\]: Yeah, now eye in sente or ko to disconnect.
+Rotfuchs [3k\]: now ko to kill lol
+]
+;W[fp]WL[822.638]
+;B[nk]BL[1345.902]C[ZeNit [?\]: oh god
+anmollov [6k\]: so fast... impresive
+Rotfuchs [3k\]: or maybe not to kill
+]
+;W[ho]WL[813.745]C[Zonked [3d\]: well, lets kill some more :)
+BobWhoosta [1d\]: And a factory of threats.
+]
+;B[hn]BL[1339.26]
+;W[nj]WL[810.794]
+;B[jj]BL[1338.539]
+;W[jk]WL[807.979]C[loea [2k\]: thats ko for game :O
+BobWhoosta [1d\]: Black doesn't even care about killing.
+]
+;B[nk]BL[1337.481]C[Zonked [3d\]: loea, I dont think its the game, w has already lost
+BobWhoosta [1d\]: Q5 is the next threat?
+firehorse [4k\]: l6
+Zonked [3d\]: even if b dies, b has over half the board
+]
+;W[jm]WL[790.27]C[ZeNit [?\]: Black must be alphago, smurfing
+tehrei: better to die than live in gote
+]
+;B[kn]BL[1331.188]
+;W[nj]WL[787.398]
+;B[kp]BL[1330.483]C[loea [2k\]: but if black is dead Supreme estimator says W+4
+]
+;W[lp]WL[773.002]
+;B[nk]BL[1326.52]C[ZeNit [?\]: so many threats
+mnoplol [1d\]: b still has r3 if b dies
+]
+;W[cc]WL[759.821]C[Rotfuchs [3k\]: not with the top group tho
+sasha97 [5d?\]: m4 ???
+Nodos [2k\]: b is definitely mid-high dan to play this fast against zen
+Rotfuchs [3k\]: oh, nvm, definitely a threat up there
+]
+;B[dc]BL[1317.765]C[loea [2k\]: oh ye, poor ZEn :(
+Nodos [2k\]: he isn't even taking time to think
+]
+;W[nj]WL[753.115]
+;B[po]BL[1316.671]C[Rotfuchs [3k\]: giving up r3 aji
+BobWhoosta [1d\]: If black makes many more ko threats in the Q5 area, it will remove R3.
+]
+;W[nk]WL[739.018]C[BobWhoosta [1d\]: But the ko threats are more important.
+]
+;B[qp]BL[1312.377]C[blackhawk [1d\]: that doesnt matter if b live
+]
+;W[qq]WL[730.532]C[saxo [2d\]: if b lives even small he wins
+ZeNit [?\]: this game...
+BobWhoosta [1d\]: Risky for white.
+]
+;B[qn]BL[1307.025]C[Zonked [3d\]: another ko
+Zonked [3d\]: how fun
+]
+;W[rn]WL[721.236]C[Rotfuchs [3k\]: great game
+]
+;B[op]BL[1302.125]C[BobWhoosta [1d\]: P4?
+Rotfuchs [3k\]: godmoves earns their name, win or lose
+Nodos [2k\]: i still don't get why zen threw away the upper side
+]
+;W[pq]WL[710.826]C[Nodos [2k\]: he tenuki when it wasn't alive
+Crashdown [12k?\]: holy shoot
+]
+;B[oq]BL[1296.707]C[BobWhoosta [1d\]: M3 was to kill the lower side.
+selena [3d\]: b no eye
+Rotfuchs [3k\]: maybe didnt read the top correctly
+saxo [2d\]: w can't save all
+BobWhoosta [1d\]: Easy to see why someone would make that decision.
+]
+;W[pn]WL[695.015]C[Zonked [3d\]: the aji is pretty severe
+blackhawk [1d\]: l2
+]
+;B[qo]BL[1287.961]C[BobWhoosta [1d\]: S4?
+reaf [?\]: poor zen
+]
+;W[or]WL[684.729]
+;B[ro]BL[1286.671]C[Zonked [3d\]: s4 badidea
+BobWhoosta [1d\]: But L2 will kill the bottom.
+BobWhoosta [1d\]: Yeah.
+Zonked [3d\]: cant give b p5 insente
+BobWhoosta [1d\]: I see that now.
+]
+;W[rm]WL[666.194]C[pokamon [1k\]: w in luxury
+]
+;B[rq]BL[1282.671]C[Zonked [3d\]: b lived
+USSRMan [3d\]: god is dead
+ZeNit [?\]: white is getting dominated
+Zonked [3d\]: there is a gote eyat j5
+loea [2k\]: our zen :(
+Nodos [2k\]: neat
+BobWhoosta [1d\]: AWESOME game.
+Zonked [3d\]: so b is alive
+USSRMan [3d\]: wow
+senkise [3k\]: wowowow
+Rotfuchs [3k\]: incredible game
+cohen [?\]: Nv
+Fei [-\]: gg
+cohen [?\]: Bv
+Crashdown [12k?\]: amazing
+r2doubleg [4k\]: sick
+tehrei: gg
+Zonked [3d\]: gg
+zumeo [8k\]: yes
+USSRMan [3d\]: is godmoves really ke jie
+konrad [?\]: :)
+vghk2: bra
+Otyq [?\]: wow
+anmollov [6k\]: the best game
+megaschaf [2k\]: Definitely not 2 k
+vghk2: vo
+ZeNit [?\]: Nietzche was right all along
+shredderr [26k?\]: bravo
+GarouDan [4k\]: Congratulations
+FoxMulder [3d\]: godmoves ke jie?
+Nodos [2k\]: ...
+Zonked [3d\]: alphago and ke jie are both likely candidates
+Onchyru [1d\]: zen sorta got rekt
+Nodos [2k\]: or just some anonymous pro
+anmollov [6k\]: hwo are you godmoves ???
+wurfmaul [2d\]: imagine how disappointed other top pros would be to read something like "are you really ke jie"?
+BobWhoosta [1d\]: This wasn't a normal pro.
+BobWhoosta [1d\]: This was really high level play.
+Crashdown [12k?\]: his client was english
+BobWhoosta [1d\]: Black tenukied M3 then came back and lived.
+Zonked [3d\]: the time use, really makes me think he could be alphago
+Maisha [3k\]: wery high lvl
+GoNuts [3k\]: any linux client is english
+trust: i go with wurfmaul
+BobWhoosta [1d\]: That's not normal.
+megaschaf [2k\]: How many points does white have ??
+Orc [7k?\]: why can't white O3?
+ZeNit [?\]: maybe Zen was just having a bad game
+ZeNit [?\]: he needs more coffee
+Zonked [3d\]: orc, first of all, b can just live in corner,its enough to win
+Zonked [3d\]: but, b can also just answer, since the n4 is in bad shape
+Hayosiko [1k\]: this games indeed looked like a fight between two strong bots
+Crashdown [12k?\]: too fast to be a bot
+lonepeak: zen v 13.1 vs zen v 14.1 xD
+Zonked [3d\]: crashdown, not without human operator
+ohyou [-\]: how do you distinguish between top pro and freshman?
+BobWhoosta [1d\]: Yeah, definitely human.
+BobWhoosta [1d\]: Zonked, some of the moves happened instantly.
+BobWhoosta [1d\]: Bots have a more measured play.
+Zonked [3d\]: yes, try leela bot
+Zonked [3d\]: leela has this kind of time management
+BobWhoosta [1d\]: Is leela bot strong enough to beat Zen?
+Zonked [3d\]: nono, ofcourse not
+BobWhoosta [1d\]: So I don't think a bot of this strength would have that type of time management.
+Zonked [3d\]: but, just proves you can write good time management for bots
+Zonked [3d\]: and why wouldnt alphago have good time management?
+BobWhoosta [1d\]: Well, alphago had great time management.
+Zonked [3d\]: besides, some of the alphago games being played were with very fast time settings
+BobWhoosta [1d\]: But never played a move instantly.
+BobWhoosta [1d\]: I can agree it's possible, but I think this was a human.
+Zonked [3d\]: anyways, until proven otherwise, b is alphago in my books
+BobWhoosta [1d\]: AlphaTroll...
+Crashdown [12k?\]: we'll never know
+Zonked [3d\]: alphago likes this opening too btw
+Hayosiko [1k\]: 4 first black moves are the same as in alpha vs alpha game 1
+Zonked [3d\]: lol, played yose out, where black sacrifices bottom
+Zonked [3d\]: black wins by half a point
+Zonked [3d\]: tho my yose isnt nearly good enough to be certain, there is a reasnable chance b could have won even if bottom group dies
+Zonked [3d\]: anyways, tagged this game as zen 13.1 vs AlphaGo :)
+Naphthalin [?\]: b feels extremely powerful here o.O
+])
