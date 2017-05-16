@@ -177,6 +177,11 @@ SGF\nSGF\nSGF\n...
   * Master
     * 60 games
     * 60W / 0L / 100%
+  * deepmind
+    * TYGEM
+    * 249 games
+    * 2015.12.02 - 2016.12.15
+    * 229W / 20L / 91.97%
 * FineArt
   * FineArt
     * 590 games
