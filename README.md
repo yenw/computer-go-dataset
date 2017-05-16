@@ -221,6 +221,11 @@ SGF\nSGF\nSGF\n...
     * 2361 games
     * 2016.12.29 - 2017.05.16
     * 1953W / 408L / 82.71%
+  * Zen19L vs Godmoves
+    * KGS
+    * 3 games
+    * 2016.11.29 - 2016.12.01
+    * 0W / 3L / 0%
 * Leela
   * Leela(P)
     * TYGEM
