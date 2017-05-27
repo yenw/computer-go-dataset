@@ -167,13 +167,13 @@ SGF\nSGF\nSGF\n...
 ======
 * AlphaGo 2.0
   * AlphaGo vs Ke Jie
-    * 3games
+    * 3 games
     * 3W / 0L / 100%
   * AlphaGo vs China Team
-    * 1games
+    * 1 games
     * 1W / 0L / 100%
   * AlphaGo + Lian Xiao vs AlphaGo + Gu Li
-    * 1games
+    * 1 games
   * AlphaGo selfplay
     * 50 games
 
