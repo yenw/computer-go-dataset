@@ -165,6 +165,18 @@ SGF\nSGF\nSGF\n...
 
 5 AI dataset
 ======
+* AlphaGo 2.0
+  * AlphaGo vs Ke Jie
+    * 3games
+    * 3W / 0L / 100%
+  * AlphaGo vs China Team
+    * 1games
+    * 1W / 0L / 100%
+  * AlphaGo + Lian Xiao vs AlphaGo + Gu Li
+    * 1games
+  * AlphaGo selfplay
+    * 50 games
+
 * AlphaGo
   * AlphaGo vs Fan Hui
     * 3 games
@@ -218,9 +230,9 @@ SGF\nSGF\nSGF\n...
     * 71W / 15L / 82.55%
   * DeepZen(P)
     * TYGEM
-    * 2361 games
-    * 2016.12.29 - 2017.05.16
-    * 1953W / 408L / 82.71%
+    * 2422 games
+    * 2016.12.29 - 2017.05.18
+    * 2007W / 415L / 82.87%
   * Zen19L vs Godmoves
     * KGS
     * 3 games
@@ -229,9 +241,9 @@ SGF\nSGF\nSGF\n...
 * Leela
   * Leela(P)
     * TYGEM
-    * 842 games
-    * 2017.03.29 - 2017.05.16
-    * 357W / 485L / 42.40%
+    * 1057 games
+    * 2017.03.29 - 2017.05.27
+    * 442W / 615L / 41.82%
 
 6 KGS dataset
 ======
