@@ -165,35 +165,46 @@ SGF\nSGF\nSGF\n...
 
 5 AI dataset
 ======
-* AlphaGo 2.0
-  * AlphaGo vs Ke Jie
-    * 3 games
-    * 3W / 0L / 100%
-  * AlphaGo vs China Team
-    * 1 games
-    * 1W / 0L / 100%
-  * AlphaGo + Lian Xiao vs AlphaGo + Gu Li
-    * 1 games
-  * AlphaGo selfplay
-    * 50 games
-
 * AlphaGo
-  * AlphaGo vs Fan Hui
-    * 3 games
-    * 5W / 0L / 100%
-  * AlphaGo vs Lee Sedol
-    * 5 games
-    * 4W / 1L / 80%
-  * AlphaGo selfplay
-    * 3 games
-  * Master
-    * 60 games
-    * 60W / 0L / 100%
-  * deepmind
-    * TYGEM
-    * 249 games
-    * 2015.12.02 - 2016.12.15
-    * 229W / 20L / 91.97%
+  * AlphaGo Ke
+    * AlphaGo vs Ke Jie
+      * 3 games
+      * 2017.05.23 - 2017.05.27
+      * 3W / 0L / 100%
+    * AlphaGo vs China Team
+      * 1 games
+      * 2017.05.26
+      * 1W / 0L / 100%
+    * AlphaGo + Lian Xiao vs AlphaGo + Gu Li
+      * 1 games
+      * 2017.05.26
+    * AlphaGo selfplay
+      * 50 games
+  * AlphaGo Master
+    * Master
+      * 60 games
+      * 2016.12.29 - 2017.01.04
+      * 60W / 0L / 100%
+  * AlphaGo Lee
+    * AlphaGo vs Lee Sedol
+      * 5 games
+      * 2016.03.09 - 2016.03.15
+      * 4W / 1L / 80%
+    * AlphaGo selfplay
+      * 3 games
+  * AlphaGo Fan
+    * AlphaGo vs Fan Hui
+      * 3 games
+      * 2015.10.05 - 2015.10.09
+      * 5W / 0L / 100%
+
+  * AlphaGo Deepmind
+    * deepmind
+      * TYGEM
+      * 249 games
+      * 2015.12.02 - 2016.12.15
+      * 229W / 20L / 91.97%
+
 * FineArt
   * FineArt
     * 590 games
