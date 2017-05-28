@@ -161,22 +161,22 @@ void TYGEM::KifuInfoParser(uint8_t* p, size_t n)
         switch (nation_black)
         {
         case 0:
-            parser += wxString(native_name_black, wxCSConv("EUC_KR")) += '\t';
+            parser += wxString(native_name_black, wxCSConv("EUC_KR")) + '\t';
             break;
         case 1:
-            parser += wxString(native_name_black, wxCSConv("CP932")) += '\t';
+            parser += wxString(native_name_black, wxCSConv("CP932")) + '\t';
             break;
         case 2:
-            parser += wxString(native_name_black, wxCSConv("GB2312")) += '\t';
+            parser += wxString(native_name_black, wxCSConv("GB2312")) + '\t';
             break;
         case 3:
-            parser += wxString(native_name_black, wxCSConv("CP1252")) += '\t';
+            parser += wxString(native_name_black, wxCSConv("CP1252")) + '\t';
             break;
         case 4:
-            parser += wxString(native_name_black, wxCSConv("BIG5")) += '\t';
+            parser += wxString(native_name_black, wxCSConv("BIG5")) + '\t';
             break;
         case 5:
-            parser += wxString(native_name_black, wxCSConv("GB2312")) += '\t';
+            parser += wxString(native_name_black, wxCSConv("GB2312")) + '\t';
             break;
         default:
             parser += wxString(native_name_black);
