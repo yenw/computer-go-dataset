@@ -2,7 +2,7 @@
 SZ[19]
 PB[AlphaGo]
 PW[White]
-KM[7.5]
+KM[7.5]RE[W+R]RU[Chinese]
 ;B[pd];W[cc];B[qp];W[dq];B[co];W[oq];B[pq];W[op];B[pn];W[kp];B[ep]
 ;W[fq];B[eq];W[er];B[dp];W[cq];B[dr];W[cr];B[fr];W[ds];B[gq];W[pf]
 ;B[hn];W[nc];B[nd];W[md];B[ne];W[oc];B[pe];W[qj];B[mr];W[mq];B[lq]
