@@ -81,7 +81,7 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
 
 * [Converter.py](../master/TYGEM/Converter.py)
   * usage: python Converter.py kifu.index english_user_id kifu_folder save_folder
-  * example: python Converter.py kifu.index lxlx Kifu Save
+  * example: python Converter.py kifu.index Lurk(P) Kifu Save
 
 
 2 TOM dataset
