@@ -38,7 +38,8 @@ def statistic(filename, user_id):
     print str
 
 if len(sys.argv) != 3:
-    print "usage: statistic.py Kifu.index english_user_id"
+    print "usage: statistic.py kifu.index english_user_id"
+    print "example: statistic.py kifu.index lxlx"
 else:
     filename = sys.argv[1]
     user_id = sys.argv[2]
