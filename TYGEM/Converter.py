@@ -4,12 +4,14 @@ import sys
 def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
     f = open(index_name)
     stack = []
+    save_index = ""
     for line in f:
         line = line.decode('utf-8')
         line_r = line.split('\t')
         if line_r[6] != english_user_id and line_r[3] != english_user_id:
             continue
 
+        save_index += line
         Num = line_r[0]
         fn_sgf = line_r[1][1:5] + "-" + line_r[1][6:8]
         DT = line_r[1][1:]
@@ -42,6 +44,10 @@ def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
         stack.append([SGF, fn_sgf, Num])
     f.close()
 
+    writer = open(english_user_id + ".index", "w")
+    writer.write(save_index.encode('utf-8'))
+    writer.close()
+    
     if kifu_folder[-1] != "\\":
         kifu_folder += "\\"
 
@@ -82,7 +88,7 @@ def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
 
 if len(sys.argv) != 5:
     print "usage: python Converter.py kifu.index english_user_id kifu_folder save_folder"
-    print "example: python Converter.py kifu.index lxlx Kifu Save"
+    print "example: python Converter.py kifu.index Lurk(P) Kifu Save"
 else:
     index_name = sys.argv[1]
     english_user_id = sys.argv[2]
