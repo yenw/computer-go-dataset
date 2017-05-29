@@ -76,10 +76,12 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
 
 1.3 Convert to SGF
 ------
-Thanks for [Hiroshi Yamashita](http://www.yss-aya.com/) writing the converter tool.
+* [tygem_convert.tar.gz](http://www.yss-aya.com/20170418tygem_convert.tar.gz)
+  * Thanks for [Hiroshi Yamashita](http://www.yss-aya.com/) writing the converter tool.
 
-[tygem_convert.tar.gz](http://www.yss-aya.com/20170418tygem_convert.tar.gz)
-
+* [Converter.py](../master/TYGEM/Converter.py)
+  * usage: python Converter.py kifu.index english_user_id kifu_folder save_folder
+  * example: python Converter.py kifu.index lxlx Kifu Save
 
 
 2 TOM dataset
