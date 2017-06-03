@@ -200,13 +200,6 @@ SGF\nSGF\nSGF\n...
       * 2015.10.05 - 2015.10.09
       * 5W / 0L / 100%
 
-  * AlphaGo Deepmind
-    * deepmind
-      * TYGEM
-      * 249 games
-      * 2015.12.02 - 2016.12.15
-      * 229W / 20L / 91.97%
-
 * FineArt
   * FineArt
     * 590 games
