@@ -129,7 +129,7 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
 ======
 1940.01.01 - 2017.01.09
 
-73,522 games (Includes newest AlphaGo/Master games)
+73,522 games
 
 4.1 Format(txt)
 ------
