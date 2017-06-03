@@ -1,6 +1,7 @@
 #!/bin/python
 # encoding=utf8
 import sys
+import platform
 def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
     f = open(index_name)
     stack = []
@@ -48,11 +49,18 @@ def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
     writer.write(save_index.encode('utf-8'))
     writer.close()
     
-    if kifu_folder[-1] != "\\":
-        kifu_folder += "\\"
+    if platform.platform() == "Windows":
+        if kifu_folder[-1] != "\\":
+            kifu_folder += "\\"
 
-    if save_folder[-1] != "\\":
-        save_folder += "\\"
+        if save_folder[-1] != "\\":
+            save_folder += "\\"
+    else:
+        if kifu_folder[-1] != "/":
+            kifu_folder += "/"
+
+        if save_folder[-1] != "/":
+            save_folder += "/"
 
     i = 0
     stack_size = len(stack)
