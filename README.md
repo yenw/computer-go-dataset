@@ -196,7 +196,7 @@ SGF\nSGF\nSGF\n...
       * 3 games
   * AlphaGo Fan
     * AlphaGo vs Fan Hui
-      * 3 games
+      * 5 games
       * 2015.10.05 - 2015.10.09
       * 5W / 0L / 100%
 
