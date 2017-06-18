@@ -256,6 +256,11 @@ SGF\nSGF\nSGF\n...
     * 2017.03.29 - 2017.06.14
     * 559W / 795L / 41.29%
 
+* CGOS
+  * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
+  * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
+  * [9x9](http://www.yss-aya.com/cgos/9x9/archive.html)
+
 6 KGS dataset
 ======
 [website](https://u-go.net/gamerecords/)
