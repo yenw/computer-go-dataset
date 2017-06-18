@@ -2,14 +2,14 @@
 # encoding=utf8
 import sys
 import platform
-def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
+def kifu_converter(index_name, user_id, kifu_folder, save_folder):
     f = open(index_name)
     stack = []
     save_index = ""
     for line in f:
         line = line.decode('utf-8')
         line_r = line.split('\t')
-        if line_r[2] != english_user_id and line_r[3] != english_user_id:
+        if line_r[2] != user_id and line_r[3] != user_id:
             continue
 
         save_index += line
@@ -34,11 +34,11 @@ def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
         SGF += "KM[6.5]"
         SGF += "RU[Japanese]"
         SGF += "TM[" + TM + "]" + "OT[" + OT + "]\n"
-        SGF += "PC[TYGEM]"
+        SGF += "PC[Tom]"
         stack.append([SGF, fn_sgf, Num])
     f.close()
 
-    writer = open(english_user_id + ".index", "w")
+    writer = open(user_id + ".index", "w")
     writer.write(save_index.encode('utf-8'))
     writer.close()
     
@@ -88,11 +88,11 @@ def kifu_converter(index_name, english_user_id, kifu_folder, save_folder):
         i += 1
 
 if len(sys.argv) != 5:
-    print "usage: python Converter_Tom.py Kifu.index english_user_id kifu_folder save_folder"
+    print "usage: python Converter_Tom.py Kifu.index user_id kifu_folder save_folder"
     print "example: python Converter_Tom.py Kifu.index 930115 kifu save"
 else:
     index_name = sys.argv[1]
-    english_user_id = sys.argv[2]
+    user_id = sys.argv[2]
     kifu_folder = sys.argv[3]
     save_folder = sys.argv[4]
-    kifu_converter(index_name, english_user_id, kifu_folder, save_folder)
+    kifu_converter(index_name, user_id, kifu_folder, save_folder)
