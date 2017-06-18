@@ -96,14 +96,13 @@ TOM "9D vs 9D" dataset (50,956 games).
 * date
 * white
 * black
+* komi
 * result
 * round
 * byoyomi/times minutes
 
 default:
 
-* komi
-  * 6.5 
 * white rank
   * 9d
 * black rank
