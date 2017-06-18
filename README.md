@@ -103,7 +103,7 @@ TOM "9D vs 9D" dataset (50,956 games).
 default:
 
 * komi
-  * 7.5 
+  * 6.5 
 * white rank
   * 9d
 * black rank
@@ -120,6 +120,12 @@ default:
 2.2 Format(kifu)
 ------
 id\t;B[coord];W[coord];B[coord];W[coord]......
+
+2.3 Convert to SGF
+------
+* [Converter_Tom.py](../master/Tom/Converter_Tom.py)
+  * usage: python Converter_Tom.py Kifu.index user_id kifu_folder save_folder
+  * example: python python Converter_Tom.py Kifu.index 930115 kifu save
 
 3 Aya's selfplay games for training value network
 ======
