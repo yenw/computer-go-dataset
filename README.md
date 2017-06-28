@@ -213,6 +213,9 @@ SGF\nSGF\nSGF\n...
   * FineArt UEC
     * 11 games
     * 11W / 0L / 100%
+  * FineArt vs Gu Li / Tuo Jia Xi / Tan Xiao
+    * 1 games
+    * 1W / 0L / 100%
   * Li Long
     * 477 games
     * 2016.10.21 - 2017.06.05
