@@ -245,9 +245,9 @@ SGF\nSGF\nSGF\n...
     * 81W / 18L / 81.81%
   * DeepZen(P)
     * TYGEM
-    * 2422 games
-    * 2016.12.29 - 2017.05.18
-    * 2007W / 415L / 82.87%
+    * 2476 games
+    * 2016.12.29 - 2017.06.29
+    * 2046W / 430L / 82.63%
   * Zen19L vs Godmoves
     * KGS
     * 3 games
@@ -256,9 +256,9 @@ SGF\nSGF\nSGF\n...
 * Leela
   * Leela(P)
     * TYGEM
-    * 1354 games
-    * 2017.03.29 - 2017.06.14
-    * 559W / 795L / 41.29%
+    * 1642 games
+    * 2017.03.29 - 2017.07.01
+    * 687W / 955L / 41.84%
 
 * CGOS
   * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
