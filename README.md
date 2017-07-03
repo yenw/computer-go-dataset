@@ -259,7 +259,12 @@ SGF\nSGF\nSGF\n...
     * 1642 games
     * 2017.03.29 - 2017.07.01
     * 687W / 955L / 41.84%
-
+* CGI
+  * CGI(P)
+    * TYGEM
+    * 8 games
+    * 2017.07.03 - 2017.07.04
+    * 6W / 2L / 75.00%
 * CGOS
   * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
   * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
