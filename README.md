@@ -186,7 +186,7 @@ SGF\nSGF\nSGF\n...
       * 1 games
       * 2017.05.26
     * AlphaGo selfplay
-      * 51 games
+      * 52 games
   * AlphaGo Master
     * Master
       * 60 games
