@@ -265,6 +265,12 @@ SGF\nSGF\nSGF\n...
     * 8 games
     * 2017.07.03 - 2017.07.04
     * 6W / 2L / 75.00%
+* CNC
+  * cnculture(P)
+    * TYGEM
+    * 1024 games
+    * 2017.04.22 - 2017.07.04
+    * 410W / 614L / 40.04%
 * CGOS
   * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
   * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
