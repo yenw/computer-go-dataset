@@ -248,6 +248,11 @@ SGF\nSGF\nSGF\n...
     * 2806 games
     * 2016.12.29 - 2017.07.13
     * 2271W / 535L / 80.93%
+  * DeepZen(B)
+    * TYGEM
+    * 303 games
+    * 2017.07.13 - 2017.07.27
+    * 208W / 95L / 68.65%
   * Zen19L vs Godmoves
     * KGS
     * 3 games
@@ -259,18 +264,33 @@ SGF\nSGF\nSGF\n...
     * 1851 games
     * 2017.03.29 - 2017.07.13
     * 787W / 1064L / 42.52%
+  * Leela(B)
+    * TYGEM
+    * 481 games
+    * 2017.07.13 - 2017.08.11
+    * 194W / 287L / 40.33%
 * CGI
   * CGI(P)
     * TYGEM
     * 167 games
     * 2017.07.03 - 2017.07.13
     * 120W / 47L / 71.85%
+  * CGI(B)
+    * TYGEM
+    * 8 games
+    * 2017.07.13 - 2017.07.14
+    * 3W / 5L / 37.50%
 * CNC
   * cnculture(P)
     * TYGEM
     * 1237 games
     * 2017.04.22 - 2017.07.13
     * 519W / 718L / 41.96%
+  * cnculture(B)
+    * TYGEM
+    * 662 games
+    * 2017.07.13 - 2017.08.11
+    * 304W / 358L / 45.92%
 * CGOS
   * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
   * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
