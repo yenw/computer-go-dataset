@@ -264,7 +264,7 @@ SGF\nSGF\nSGF\n...
     * 1851 games
     * 2017.03.29 - 2017.07.13
     * 787W / 1064L / 42.52%
-  * Leela(B)
+  * Leela(B)
     * TYGEM
     * 481 games
     * 2017.07.13 - 2017.08.11
@@ -286,7 +286,7 @@ SGF\nSGF\nSGF\n...
     * 1237 games
     * 2017.04.22 - 2017.07.13
     * 519W / 718L / 41.96%
-  * cnculture(B)
+  * cnculture(B)
     * TYGEM
     * 662 games
     * 2017.07.13 - 2017.08.11
