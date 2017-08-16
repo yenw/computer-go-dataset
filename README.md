@@ -295,6 +295,10 @@ SGF\nSGF\nSGF\n...
   * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
   * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
   * [9x9](http://www.yss-aya.com/cgos/9x9/archive.html)
+* The 1st World AI Go Open 2017
+  * Abacus, AQ, CGI, DeepZenGo, Dolbaram, FineArt, Golois, Leela, MuGo, OracleWQ, Ryan, TianRang
+  * 30 games
+  * 2017.08.16 - 2017.08.16
 
 6 KGS dataset
 ======
