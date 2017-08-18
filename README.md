@@ -297,8 +297,8 @@ SGF\nSGF\nSGF\n...
   * [9x9](http://www.yss-aya.com/cgos/9x9/archive.html)
 * The 1st World AI Go Open 2017
   * AI: `Abacus`, `AQ`, `CGI`, `DeepZenGo`, `Dolbaram`, `FineArt`, `Golois`, `Leela`, `MuGo`, `OracleWQ`, `Ryan`, `TianRang`
-  * 37 games
-  * 2017.08.16 - 2017.08.17
+  * 37 games + 2 special games
+  * 2017.08.16 - 2017.08.18
   * 1st: `DeepZenGo`
   * 2nd: `CGI`
   * 3rd: `FineArt`
