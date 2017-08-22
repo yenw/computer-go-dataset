@@ -1,13 +1,20 @@
-- [TYGEM](#1-tygem-dataset)
-- [Tom](#2-tom-dataset)
-- [Aya](#3-ayas-selfplay-games-for-training-value-network)
-- [Professional](#4-professional)
-- [AI](#5-ai-dataset)
-- [KGS](#6-kgs-dataset)
-
-SGF
+Contents
 ======
-[SGF Format](http://www.red-bean.com/sgf/)
+* [TYGEM](#1-tygem-dataset)
+* [Tom](#2-tom-dataset)
+* [Aya](#3-ayas-selfplay-games-for-training-value-network)
+* [Professional](#4-professional)
+* [AI](#5-ai-dataset)
+  * AlphaGo
+  * FineArt
+  * Zen
+  * CGI
+  * Dancer
+  * Leela
+  * CNC
+  * CGOS
+  * The 1st World AI Go Open 2017
+* [KGS](#6-kgs-dataset)
 
 1 TYGEM dataset
 ======
@@ -318,7 +325,11 @@ SGF\nSGF\nSGF\n...
 
 6 KGS dataset
 ======
-[website](https://u-go.net/gamerecords/)
+[Kifu](https://u-go.net/gamerecords/)
+
+SGF
+======
+[SGF Format](http://www.red-bean.com/sgf/)
 
 Licensing
 ======
