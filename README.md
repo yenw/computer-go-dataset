@@ -258,17 +258,6 @@ SGF\nSGF\nSGF\n...
     * 3 games
     * 2016.11.29 - 2016.12.01
     * 0W / 3L / 0%
-* Leela
-  * Leela(P)
-    * TYGEM
-    * 1851 games
-    * 2017.03.29 - 2017.07.13
-    * 787W / 1064L / 42.52%
-  * Leela(B)
-    * TYGEM
-    * 481 games
-    * 2017.07.13 - 2017.08.11
-    * 194W / 287L / 40.33%
 * CGI
   * CGI(P)
     * TYGEM
@@ -280,6 +269,23 @@ SGF\nSGF\nSGF\n...
     * 8 games
     * 2017.07.13 - 2017.07.14
     * 3W / 5L / 37.50%
+* Dancer
+  * Dancer(P)
+    * TYGEM
+    * 162 games
+    * 2017.04.02 - 2017.08.20
+    * 128W / 34L / 79.01%
+* Leela
+  * Leela(P)
+    * TYGEM
+    * 1851 games
+    * 2017.03.29 - 2017.07.13
+    * 787W / 1064L / 42.52%
+  * Leela(B)
+    * TYGEM
+    * 481 games
+    * 2017.07.13 - 2017.08.11
+    * 194W / 287L / 40.33%
 * CNC
   * cnculture(P)
     * TYGEM
