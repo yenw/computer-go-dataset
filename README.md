@@ -12,9 +12,9 @@ Contents
   * Dancer
   * Leela
   * CNC
-  * CGOS
   * The 1st World AI Go Open 2017
-* [KGS](#6-kgs-dataset)
+* [CGOS](#6-cgos-dataset)
+* [KGS](#7-kgs-dataset)
 
 1 TYGEM dataset
 ======
@@ -311,10 +311,7 @@ SGF\nSGF\nSGF\n...
     * 662 games
     * 2017.07.13 - 2017.08.11
     * 304W / 358L / 45.92%
-* CGOS
-  * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
-  * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
-  * [9x9](http://www.yss-aya.com/cgos/9x9/archive.html)
+
 * The 1st World AI Go Open 2017
   * AI: `Abacus`, `AQ`, `CGI`, `DeepZenGo`, `Dolbaram`, `FineArt`, `Golois`, `Leela`, `MuGo`, `OracleWQ`, `Rayn`, `TianRang`
   * 37 games + 3 special games
@@ -323,7 +320,13 @@ SGF\nSGF\nSGF\n...
   * 2nd: `CGI`
   * 3rd: `FineArt`
 
-6 KGS dataset
+6 CGOS dataset
+======
+  * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
+  * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
+  * [9x9](http://www.yss-aya.com/cgos/9x9/archive.html)
+
+7 KGS dataset
 ======
 [Kifu](https://u-go.net/gamerecords/)
 
