@@ -11,6 +11,7 @@ Contents
   * CGI
   * Dancer
   * Leela
+  * DolBaram
   * CNC
   * The 1st World AI Go Open 2017
 * [CGOS](#6-cgos-dataset)
@@ -300,6 +301,12 @@ SGF\nSGF\nSGF\n...
     * 481 games
     * 2017.07.13 - 2017.08.11
     * 194W / 287L / 40.33%
+* DolBaram
+  * DolBaram
+    * TYGEM
+    * 26 games
+    * 2017.05.08 - 2017.08.03
+    * 24W / 2L / 92.31%
 * CNC
   * cnculture(P)
     * TYGEM
