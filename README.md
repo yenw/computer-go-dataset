@@ -5,14 +5,14 @@ Contents
 * [Aya](#3-ayas-selfplay-games-for-training-value-network)
 * [Professional](#4-professional)
 * [AI](#5-ai-dataset)
-  * AlphaGo
-  * FineArt
-  * Zen
-  * CGI
-  * Dancer
-  * Leela
-  * DolBaram
-  * CNC
+  * `AlphaGo`
+  * `FineArt`
+  * `Zen`
+  * `CGI`
+  * `Dancer`
+  * `Leela`
+  * `DolBaram`
+  * `CNC`
   * The 1st World AI Go Open 2017
 * [CGOS](#6-cgos-dataset)
 * [KGS](#7-kgs-dataset)
@@ -187,7 +187,7 @@ SGF\nSGF\nSGF\n...
 
 5 AI dataset
 ======
-* AlphaGo
+* `AlphaGo`
   * AlphaGo Ke
     * AlphaGo vs Ke Jie
       * 3 games
@@ -220,7 +220,7 @@ SGF\nSGF\nSGF\n...
       * 2015.10.05 - 2015.10.09
       * 5W / 0L / 100%
 
-* FineArt
+* `FineArt`
   * FineArt
     * 590 games
     * 2016.11.01 - 2017.05.12
@@ -252,7 +252,7 @@ SGF\nSGF\nSGF\n...
     * 2016.07.28 - 2016.10.28
     * 42W / 21L / 66.66%
 
-* Zen
+* `Zen`
   * DeepZenGo
     * Fox Go Server
     * 115 games
@@ -273,7 +273,7 @@ SGF\nSGF\nSGF\n...
     * 3 games
     * 2016.11.29 - 2016.12.01
     * 0W / 3L / 0%
-* CGI
+* `CGI`
   * CGI(P)
     * TYGEM
     * 167 games
@@ -284,13 +284,13 @@ SGF\nSGF\nSGF\n...
     * 8 games
     * 2017.07.13 - 2017.07.14
     * 3W / 5L / 37.50%
-* Dancer
+* `Dancer`
   * Dancer(P)
     * TYGEM
     * 162 games
     * 2017.04.02 - 2017.08.20
     * 128W / 34L / 79.01%
-* Leela
+* `Leela`
   * Leela(P)
     * TYGEM
     * 1851 games
@@ -301,13 +301,13 @@ SGF\nSGF\nSGF\n...
     * 481 games
     * 2017.07.13 - 2017.08.11
     * 194W / 287L / 40.33%
-* DolBaram
+* `DolBaram`
   * DolBaram
     * TYGEM
     * 26 games
     * 2017.05.08 - 2017.08.03
     * 24W / 2L / 92.31%
-* CNC
+* `CNC`
   * cnculture(P)
     * TYGEM
     * 1237 games
