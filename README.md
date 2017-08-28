@@ -268,6 +268,11 @@ SGF\nSGF\nSGF\n...
     * 303 games
     * 2017.07.13 - 2017.07.27
     * 208W / 95L / 68.65%
+  * deepzengo
+    * WBaduk
+    * 455 games
+    * 2017.06.21 - 2017.08.28
+    * 437W / 18L / 96.04%
   * Zen19L vs Godmoves
     * KGS
     * 3 games
