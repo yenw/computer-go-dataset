@@ -297,9 +297,9 @@ SGF\nSGF\nSGF\n...
 * `Dancer`
   * Dancer(P)
     * TYGEM
-    * 162 games
-    * 2017.04.02 - 2017.08.20
-    * 128W / 34L / 79.01%
+    * 171 games
+    * 2017.04.02 - 2017.08.27
+    * 135W / 36L / 78.95%
 * `Leela`
   * Leela(P)
     * TYGEM
