@@ -222,9 +222,9 @@ SGF\nSGF\nSGF\n...
 
 * `FineArt`
   * FineArt
-    * 590 games
+    * 626 games
     * 2016.11.01 - 2017.05.12
-    * 454W / 136L / 76.94%
+    * 488W / 138L / 77.95%
   * FineArt UEC
     * 11 games
     * 11W / 0L / 100%
@@ -232,9 +232,9 @@ SGF\nSGF\nSGF\n...
     * 1 games
     * 1W / 0L / 100%
   * Li Long
-    * 890 games
-    * 2016.10.21 - 2017.08.11
-    * 783W / 107L / 87.97%
+    * 903 games
+    * 2016.10.21 - 2017.09.12
+    * 795W / 108L / 88.03%
   * Xing Tian
     * 45 games
     * 2016.12.27 - 2017.01.02
@@ -289,6 +289,11 @@ SGF\nSGF\nSGF\n...
     * 8 games
     * 2017.07.13 - 2017.07.14
     * 3W / 5L / 37.50%
+  * CGI
+    * Fox Go Server
+    * 53 games
+    * 2017.09.22 - 2017.09.24
+    * 47W / 6L / 88.67%
 * `Dancer`
   * Dancer(P)
     * TYGEM
