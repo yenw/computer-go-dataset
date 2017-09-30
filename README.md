@@ -286,9 +286,9 @@ SGF\nSGF\nSGF\n...
     * 120W / 47L / 71.85%
   * CGI(B)
     * TYGEM
-    * 8 games
-    * 2017.07.13 - 2017.07.14
-    * 3W / 5L / 37.50%
+    * 16 games
+    * 2017.07.13 - 2017.08.19
+    * 10W / 6L / 62.50%
   * CGI
     * Fox Go Server
     * 53 games
