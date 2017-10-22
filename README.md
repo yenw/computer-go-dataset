@@ -188,6 +188,8 @@ SGF\nSGF\nSGF\n...
 5 AI dataset
 ======
 * `AlphaGo`
+  * AlphaGo Zero
+    * 83 games
   * AlphaGo Ke
     * AlphaGo vs Ke Jie
       * 3 games
