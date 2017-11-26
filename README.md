@@ -319,6 +319,11 @@ SGF\nSGF\nSGF\n...
     * 26 games
     * 2017.05.08 - 2017.08.03
     * 24W / 2L / 92.31%
+  * dolBaram9
+    * Fox Go Server
+    * 27 games
+    * 2017.11.02 - 2017.11.20
+    * 26W / 1L / 96.29%
 * `CNC`
   * cnculture(P)
     * TYGEM
