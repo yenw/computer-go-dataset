@@ -223,6 +223,10 @@ SGF\nSGF\nSGF\n...
       * 5W / 0L / 100%
 
 * `FineArt`
+  * fuheyuqi
+    * 171 games
+    * 2017.02.20 - 2017.11.23
+    * 166W / 5L / 97.07%
   * FineArt
     * 626 games
     * 2016.11.01 - 2017.05.12
