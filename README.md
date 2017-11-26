@@ -9,9 +9,9 @@ Contents
   * `FineArt`
   * `Zen`
   * `CGI`
+  * `DolBaram`
   * `Dancer`
   * `Leela`
-  * `DolBaram`
   * `CNC`
   * The 1st World AI Go Open 2017
 * [CGOS](#6-cgos-dataset)
@@ -280,6 +280,7 @@ SGF\nSGF\nSGF\n...
     * 3 games
     * 2016.11.29 - 2016.12.01
     * 0W / 3L / 0%
+
 * `CGI`
   * CGI(P)
     * TYGEM
@@ -293,26 +294,10 @@ SGF\nSGF\nSGF\n...
     * 10W / 6L / 62.50%
   * CGI
     * Fox Go Server
-    * 53 games
-    * 2017.09.22 - 2017.09.24
-    * 47W / 6L / 88.67%
-* `Dancer`
-  * Dancer(P)
-    * TYGEM
-    * 171 games
-    * 2017.04.02 - 2017.08.27
-    * 135W / 36L / 78.95%
-* `Leela`
-  * Leela(P)
-    * TYGEM
-    * 1851 games
-    * 2017.03.29 - 2017.07.13
-    * 787W / 1064L / 42.52%
-  * Leela(B)
-    * TYGEM
-    * 481 games
-    * 2017.07.13 - 2017.08.11
-    * 194W / 287L / 40.33%
+    * 193 games
+    * 2017.09.22 - 2017.11.20
+    * 161W / 32L / 83.41%
+
 * `DolBaram`
   * DolBaram
     * TYGEM
@@ -324,6 +309,26 @@ SGF\nSGF\nSGF\n...
     * 27 games
     * 2017.11.02 - 2017.11.20
     * 26W / 1L / 96.29%
+
+* `Dancer`
+  * Dancer(P)
+    * TYGEM
+    * 171 games
+    * 2017.04.02 - 2017.08.27
+    * 135W / 36L / 78.95%
+
+* `Leela`
+  * Leela(P)
+    * TYGEM
+    * 1851 games
+    * 2017.03.29 - 2017.07.13
+    * 787W / 1064L / 42.52%
+  * Leela(B)
+    * TYGEM
+    * 481 games
+    * 2017.07.13 - 2017.08.11
+    * 194W / 287L / 40.33%
+
 * `CNC`
   * cnculture(P)
     * TYGEM
