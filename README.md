@@ -15,7 +15,8 @@ Contents
   * `CNC`
   * The 1st World AI Go Open 2017
 * [CGOS](#6-cgos-dataset)
-* [KGS](#7-kgs-dataset)
+* [LeelaZero](#7-leela-zero-dataset)
+* [KGS](#8-kgs-dataset)
 
 1 TYGEM dataset
 ======
@@ -359,7 +360,12 @@ SGF\nSGF\nSGF\n...
   * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
   * [9x9](http://www.yss-aya.com/cgos/9x9/archive.html)
 
-7 KGS dataset
+7 Leela Zero dataset
+======
+  * [Self-Play](https://sjeng.org/zero/all.sgf.xz)
+  * [Match](https://sjeng.org/zero/all_match.sgf.xz)
+
+8 KGS dataset
 ======
 [Kifu](https://u-go.net/gamerecords/)
 
