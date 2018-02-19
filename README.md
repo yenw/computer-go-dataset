@@ -2,9 +2,10 @@ Contents
 ======
 * [TYGEM](#1-tygem-dataset)
 * [Tom](#2-tom-dataset)
-* [Aya](#3-ayas-selfplay-games-for-training-value-network)
-* [Professional](#4-professional)
-* [AI](#5-ai-dataset)
+* [Foxwq](#3-foxwq-dataset)
+* [Aya](#4-ayas-selfplay-games-for-training-value-network)
+* [Professional](#5-professional)
+* [AI](#6-ai-dataset)
   * `AlphaGo`
   * `FineArt`
   * `Zen`
@@ -14,9 +15,9 @@ Contents
   * `Leela`
   * `CNC`
   * The 1st World AI Go Open 2017
-* [CGOS](#6-cgos-dataset)
-* [LeelaZero](#7-leela-zero-dataset)
-* [KGS](#8-kgs-dataset)
+* [CGOS](#7-cgos-dataset)
+* [LeelaZero](#8-leela-zero-dataset)
+* [KGS](#9-kgs-dataset)
 
 1 TYGEM dataset
 ======
@@ -142,21 +143,37 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
   * usage: python Converter_Tom.py Kifu.index user_id kifu_folder save_folder
   * example: python python Converter_Tom.py Kifu.index 930115 kifu save
 
-3 Aya's selfplay games for training value network
+3 Foxwq dataset
 ======
+
+3.1 Github
+------
+[18k-9d](https://github.com/CamWagner/go-dataset)
+
+3.2 9d vs 9d
+------
+2013.07.09 - 2018.02.02
+
+148,102 games
+
+4 Aya's selfplay games for training value network
+======
+
+**19x19, 13x13, 9x9**
 [Aya's selfplay games](http://www.yss-aya.com/ayaself/ayaself.html)
 
-4 Professional
+
+5 Professional
 ======
 1940.01.01 - 2017.01.09
 
 73,522 games
 
-4.1 Format(txt)
+5.1 Format(txt)
 ------
 SGF\nSGF\nSGF\n...
 
-4.2 SGF tags
+5.2 SGF tags
 ------
 * GM
   * 1
@@ -186,7 +203,7 @@ SGF\nSGF\nSGF\n...
 
 * B/W/B/W ...
 
-5 AI dataset
+6 AI dataset
 ======
 * `AlphaGo`
   * AlphaGo Zero
@@ -354,18 +371,18 @@ SGF\nSGF\nSGF\n...
   * 2nd: `CGI`
   * 3rd: `FineArt`
 
-6 CGOS dataset
+7 CGOS dataset
 ======
   * [19x19](http://www.yss-aya.com/cgos/19x19/archive.html)
   * [13x13](http://www.yss-aya.com/cgos/13x13/archive.html)
   * [9x9](http://www.yss-aya.com/cgos/9x9/archive.html)
 
-7 Leela Zero dataset
+8 Leela Zero dataset
 ======
   * [Self-Play](https://sjeng.org/zero/all.sgf.xz)
   * [Match](https://sjeng.org/zero/all_match.sgf.xz)
 
-8 KGS dataset
+9 KGS dataset
 ======
 [Kifu](https://u-go.net/gamerecords/)
 
