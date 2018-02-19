@@ -160,6 +160,7 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
 ======
 
 **19x19, 13x13, 9x9**
+
 [Aya's selfplay games](http://www.yss-aya.com/ayaself/ayaself.html)
 
 
