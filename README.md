@@ -141,7 +141,7 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
 ------
 * [Converter_Tom.py](../master/Tom/Converter_Tom.py)
   * usage: python Converter_Tom.py Kifu.index user_id kifu_folder save_folder
-  * example: python python Converter_Tom.py Kifu.index 930115 kifu save
+  * example: python Converter_Tom.py Kifu.index 930115 kifu save
 
 3 Foxwq dataset
 ======
