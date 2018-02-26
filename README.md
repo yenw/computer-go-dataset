@@ -18,6 +18,7 @@ Contents
 * [CGOS](#7-cgos-dataset)
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
+* [Minigo](#10-minigo-dataset)
 
 1 TYGEM dataset
 ======
@@ -386,6 +387,16 @@ SGF\nSGF\nSGF\n...
 9 KGS dataset
 ======
 [Kifu](https://u-go.net/gamerecords/)
+
+10 Minigo dataset
+======
+[9x9](https://console.cloud.google.com/storage/browser/minigo-pub)
+
+Under this directory you can find
+
+* data/ Tensorflow tf.Record files corresponding to raw training data
+* models/ The saved model files for each generation
+* sgf/ Zip archives of all games in .sgf form, grouped by generation
 
 SGF
 ======
