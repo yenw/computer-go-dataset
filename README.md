@@ -393,9 +393,16 @@ SGF\nSGF\nSGF\n...
 ======
 [9x9](https://console.cloud.google.com/storage/browser/minigo-pub)
 
-Under this directory you can find
+Under v?-9x9 directory you can find
 
 * data/ Tensorflow tf.Record files corresponding to raw training data
+* models/ The saved model files for each generation
+* sgf/ Zip archives of all games in .sgf form, grouped by generation
+
+[19x19](https://console.cloud.google.com/storage/browser/minigo-pub)
+
+Under v?-19x19 directory you can find
+
 * models/ The saved model files for each generation
 * sgf/ Zip archives of all games in .sgf form, grouped by generation
 
