@@ -15,6 +15,7 @@ Contents
   * `Leela`
   * `CNC`
   * The 1st World AI Go Open 2017
+  * Berry Genomics Cup 2018 World AI Weiqi Competition
 * [CGOS](#7-cgos-dataset)
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
@@ -372,6 +373,10 @@ SGF\nSGF\nSGF\n...
   * 1st: `DeepZenGo`
   * 2nd: `CGI`
   * 3rd: `FineArt`
+
+* Berry Genomics Cup 2018 World AI Weiqi Competition
+  * AI: `BADUKi`, `Dolbaram`, `FineArt`, `Golois`, `HEROZ Kishin`, `Leela Zero`, `Phoenix Go`, `TS Go`
+  * 2018.04.27 - 2018.04.28
 
 7 CGOS dataset
 ======
