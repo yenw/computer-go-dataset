@@ -279,6 +279,20 @@ SGF\nSGF\nSGF\n...
     * 2016.07.28 - 2016.10.28
     * 42W / 21L / 66.66%
 
+* `Phoenix Go`
+  * BensonDarr
+    * 666 games
+    * 2017.11.28 - 2018.04.24
+    * 641W / 24L / 96.39%
+  * Shi Kong Qi Dian
+    * 100 games
+    * 2018.03.15 - 2018.03.20
+    * 100W / 0L / 100.00%
+  * Jin Mao Ce Shi
+    * 196 games
+    * 2018.03.20 - 2018.04.08
+    * 183W / 11L / 94.32%
+
 * `Zen`
   * DeepZenGo
     * Fox Go Server
