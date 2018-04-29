@@ -245,10 +245,12 @@ SGF\nSGF\nSGF\n...
 
 * `FineArt`
   * fuheyuqi
+    * Fox Go Server
     * 171 games
     * 2017.02.20 - 2017.11.23
     * 166W / 5L / 97.07%
   * FineArt
+    * Fox Go Server
     * 626 games
     * 2016.11.01 - 2017.05.12
     * 488W / 138L / 77.95%
@@ -259,36 +261,44 @@ SGF\nSGF\nSGF\n...
     * 1 games
     * 1W / 0L / 100%
   * Li Long
+    * Fox Go Server
     * 903 games
     * 2016.10.21 - 2017.09.12
     * 795W / 108L / 88.03%
   * Xing Tian
+    * Fox Go Server
     * 45 games
     * 2016.12.27 - 2017.01.02
     * 38W / 7L / 84.44%
   * Tian Xia Wu Gou
+    * Fox Go Server
     * 204 games
     * 2016.09.28 - 2016.10.31
     * 159W / 45L / 77.94%
   * Sweeper
+    * Fox Go Server
     * 55 games
     * 2016.09.02 - 2016.10.05
     * 38W / 17L / 69.09%
   * Tiger
+    * Fox Go Server
     * 63 games
     * 2016.07.28 - 2016.10.28
     * 42W / 21L / 66.66%
 
 * `Phoenix Go`
   * BensonDarr
+    * Fox Go Server
     * 666 games
     * 2017.11.28 - 2018.04.24
     * 641W / 24L / 96.39%
   * Shi Kong Qi Dian
+    * Fox Go Server
     * 100 games
     * 2018.03.15 - 2018.03.20
     * 100W / 0L / 100.00%
   * Jin Mao Ce Shi
+    * Fox Go Server
     * 196 games
     * 2018.03.20 - 2018.04.08
     * 183W / 11L / 94.32%
@@ -390,7 +400,11 @@ SGF\nSGF\nSGF\n...
 
 * Berry Genomics Cup 2018 World AI Weiqi Competition
   * AI: `BADUKi`, `Dolbaram`, `FineArt`, `Golois`, `HEROZ Kishin`, `Leela Zero`, `Phoenix Go`, `TS Go`
+  * 26 games
   * 2018.04.27 - 2018.04.28
+  * 1st: `Phoenix Go`
+  * 2nd: `FineArt`
+  * 3rd: `Leela Zero`
 
 7 CGOS dataset
 ======
