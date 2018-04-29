@@ -8,6 +8,7 @@ Contents
 * [AI](#6-ai-dataset)
   * `AlphaGo`
   * `FineArt`
+  * `Phoenix Go`
   * `Zen`
   * `CGI`
   * `DolBaram`
