@@ -20,6 +20,7 @@ Contents
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
 * [Minigo](#10-minigo-dataset)
+* [NNGS](#11-nngs-dataset)
 
 1 TYGEM dataset
 ======
@@ -438,6 +439,13 @@ Under v?-19x19 directory you can find
 
 * models/ The saved model files for each generation
 * sgf/ Zip archives of all games in .sgf form, grouped by generation
+
+11 NNGS dataset
+======
+[github](https://github.com/zenon/NNGS_SGF_Archive)
+
+* 435,495 SGF files
+* 1995.07 - 2005.05
 
 SGF
 ======
