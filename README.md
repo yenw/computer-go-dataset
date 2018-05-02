@@ -357,9 +357,9 @@ SGF\nSGF\nSGF\n...
     * 24W / 2L / 92.31%
   * dolBaram9
     * Fox Go Server
-    * 27 games
+    * 62 games
     * 2017.11.02 - 2017.11.20
-    * 26W / 1L / 96.29%
+    * 50W / 12L / 80.64%
 
 * `Dancer`
   * Dancer(P)
