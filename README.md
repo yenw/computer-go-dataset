@@ -308,9 +308,9 @@ SGF\nSGF\nSGF\n...
 * `Zen`
   * DeepZenGo
     * Fox Go Server
-    * 115 games
-    * 2016.11.19 - 2017.07.10
-    * 96W / 19L / 83.47%
+    * 130 games
+    * 2016.11.19 - 2018.04.07
+    * 106W / 24L / 81.53%
   * DeepZen(P)
     * TYGEM
     * 2806 games
