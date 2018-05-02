@@ -358,7 +358,7 @@ SGF\nSGF\nSGF\n...
   * dolBaram9
     * Fox Go Server
     * 62 games
-    * 2017.11.02 - 2017.11.20
+    * 2017.11.02 - 2018.02.16
     * 50W / 12L / 80.64%
 
 * `Dancer`
@@ -367,6 +367,11 @@ SGF\nSGF\nSGF\n...
     * 171 games
     * 2017.04.02 - 2017.08.27
     * 135W / 36L / 78.95%
+  * Dancer(P)
+    * Fox Go Server
+    * 220 games
+    * 2017.12.11 - 2018.04.04
+    * 193W / 27L / 87.72%
 
 * `Leela`
   * Leela(P)
