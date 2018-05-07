@@ -7,6 +7,7 @@ Contents
 * [Professional](#5-professional)
 * [AI](#6-ai-dataset)
   * `AlphaGo`
+  * `ELF OpenGo`
   * `FineArt`
   * `Phoenix Go`
   * `Zen`
@@ -244,6 +245,9 @@ SGF\nSGF\nSGF\n...
       * 5 games
       * 2015.10.05 - 2015.10.09
       * 5W / 0L / 100%
+
+* `ELF OpenGo`
+  * https://github.com/pytorch/ELF/releases
 
 * `FineArt`
   * fuheyuqi
