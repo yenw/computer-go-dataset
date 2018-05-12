@@ -9,7 +9,7 @@ Contents
   * `AlphaGo`
   * `ELF OpenGo`
   * `FineArt`
-  * `Phoenix Go`
+  * `PhoenixGo`
   * `Zen`
   * `CGI`
   * `DolBaram`
@@ -292,7 +292,7 @@ SGF\nSGF\nSGF\n...
     * 2016.07.28 - 2016.10.28
     * 42W / 21L / 66.66%
 
-* `Phoenix Go`
+* `PhoenixGo`
   * BensonDarr
     * Fox Go Server
     * 666 games
