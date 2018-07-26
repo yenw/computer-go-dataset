@@ -439,6 +439,8 @@ SGF\nSGF\nSGF\n...
 
 10 Minigo dataset
 ======
+[Seth Troisi's Minigo Game Viewer](http://cloudygo.com/)
+
 [9x9](https://console.cloud.google.com/storage/browser/minigo-pub)
 
 Under v?-9x9 directory you can find
