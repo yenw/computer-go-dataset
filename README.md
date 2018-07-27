@@ -441,6 +441,8 @@ SGF\nSGF\nSGF\n...
 ======
 [Seth Troisi's Minigo Game Viewer](http://cloudygo.com/)
 
+[Building a Go AI with Kubernetes and TensorFlow](https://www.youtube.com/watch?v=kCk1zuowg8E)
+
 [9x9](https://console.cloud.google.com/storage/browser/minigo-pub)
 
 Under v?-9x9 directory you can find
