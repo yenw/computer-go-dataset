@@ -419,7 +419,10 @@ SGF\nSGF\nSGF\n...
   * 3rd: `Leela Zero`
 
 * 2018 Tencent World AI WEIQI Competition
-  * AI: `AQ`, `Aya`, `BADUKi`, `Dolbaram`, `ELFOpenGo`, `FineArt`, `Golaxy`, `LeelaZero`, `Northern Lights`, `Octopus`, `Raynz`
+  * Preliminary Contest(2018.06.24): `AQ`, `Aya`, `BADUKi`, `Dolbaram`, `ELFOpenGo`, `FineArt`, `Golaxy`, `LeelaZero`, `Northern Lights`, `Octopus`, `Raynz`
+  * Repecharge(2018.07.09): `FineArt`, `Golaxy`, `ELFOpenGo`, `AQ`, `LeelaZero`, `Octopus`, `BADUKi`, `Dolbaram`
+  * Semi-final(2018.07.29): `FineArt`, `Golaxy`, `ELFOpenGo`, `AQ`
+  * Final(2018.07.30): `FineArt`, `Golaxy`
 
 7 CGOS dataset
 ======
