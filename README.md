@@ -423,6 +423,8 @@ SGF\nSGF\nSGF\n...
   * 2018.07.09, Repecharge: `FineArt`, `Golaxy`, `ELFOpenGo`, `AQ`, `LeelaZero`, `Octopus`, `BADUKi`, `Dolbaram`
   * 2018.07.29, Semi-final: `FineArt`, `Golaxy`, `ELFOpenGo`, `AQ`
   * 2018.07.30, Final: `FineArt`, `Golaxy`
+  * 1st: `FineArt`
+  * 2nd: `Golaxy`
 
 7 CGOS dataset
 ======
