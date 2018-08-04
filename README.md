@@ -435,7 +435,7 @@ SGF\nSGF\nSGF\n...
 ======
   * [Self-Play](https://sjeng.org/zero/all.sgf.xz)
   * [Match](https://sjeng.org/zero/all_match.sgf.xz)
-  * [Training Data](https://console.cloud.google.com/storage/browser/leela/training)
+  * [Training Data](https://leela.online-go.com/training/)
 
 9 KGS dataset
 ======
