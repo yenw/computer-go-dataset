@@ -426,7 +426,7 @@ SGF\nSGF\nSGF\n...
   * 1st: `FineArt`
   * 2nd: `Golaxy`
 
-* The 1nd World AI Go Open 2018
+* The 2nd World AI Go Open 2018
   * AI: `AQ`, `BADUKi`, `Dolbaram`, `ELFOpenGo`, `Golaxy`, `Raynz`, `Octopus`, `Og-go`
   * 31 games
   * 2018.08.13 - 2018.08.15
