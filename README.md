@@ -19,6 +19,7 @@ Contents
   * The 1st World AI Go Open 2017
   * Berry Genomics Cup 2018 World AI Weiqi Competition
   * 2018 Tencent World AI WEIQI Competition
+  * The 2nd World AI Go Open 2018
 * [CGOS](#7-cgos-dataset)
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
@@ -424,6 +425,14 @@ SGF\nSGF\nSGF\n...
   * 2018.07.30, Final: `FineArt`, `Golaxy`
   * 1st: `FineArt`
   * 2nd: `Golaxy`
+
+* The 1nd World AI Go Open 2018
+  * AI: `AQ`, `BADUKi`, `Dolbaram`, `ELFOpenGo`, `Golaxy`, `Raynz`, `Octopus`, `Og-go`
+  * 31 games
+  * 2018.08.13 - 2018.08.15
+  * 1st: `Golaxy`
+  * 2nd: `AQ`
+  * 3rd: `Octopus`
 
 7 CGOS dataset
 ======
