@@ -307,8 +307,8 @@ SGF\nSGF\nSGF\n...
     * 100W / 0L / 100.00%
   * Jin Mao Ce Shi
     * Fox Go Server
-    * 1559 games
-    * 2018.03.20 - 2018.08.03
+    * 2744 games
+    * 2018.03.20 - 2018.10.10
 
 * `Zen`
   * DeepZenGo
