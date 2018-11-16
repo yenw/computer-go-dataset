@@ -454,7 +454,9 @@ SGF\nSGF\nSGF\n...
 ======
 [Seth Troisi's Minigo Game Viewer](http://cloudygo.com/)
 
-[Results](https://github.com/tensorflow/minigo/blob/master/RESULTS.md)
+[CloudyGo: Results](https://cloudygo.com/RESULTS)
+
+[Github: Results](https://github.com/tensorflow/minigo/blob/master/RESULTS.md)
 
 [Building a Go AI with Kubernetes and TensorFlow](https://www.youtube.com/watch?v=kCk1zuowg8E)
 
