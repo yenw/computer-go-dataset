@@ -452,28 +452,23 @@ SGF\nSGF\nSGF\n...
 
 10 Minigo dataset
 ======
-[Seth Troisi's Minigo Game Viewer](http://cloudygo.com/)
+* CloudyGo
+  * [Seth Troisi's Minigo Game Viewer](http://cloudygo.com/)
+  * [Results](https://cloudygo.com/RESULTS)
+* Github
+  * [Results](https://github.com/tensorflow/minigo/blob/master/RESULTS.md)
+* Youtube
+  * [Building a Go AI with Kubernetes and TensorFlow](https://www.youtube.com/watch?v=kCk1zuowg8E)
+  * [MiniGo: TensorFlow Meets Andrew Jackson (TensorFlow Meets)](https://www.youtube.com/watch?v=LRqlmjL3-n8)
+* cloud.google.com
+  * Under v?-[9x9](https://console.cloud.google.com/storage/browser/minigo-pub) directory you can find
+    * data/ Tensorflow tf.Record files corresponding to raw training data
+    * models/ The saved model files for each generation
+    * sgf/ Zip archives of all games in .sgf form, grouped by generation
 
-[CloudyGo: Results](https://cloudygo.com/RESULTS)
-
-[Github: Results](https://github.com/tensorflow/minigo/blob/master/RESULTS.md)
-
-[Building a Go AI with Kubernetes and TensorFlow](https://www.youtube.com/watch?v=kCk1zuowg8E)
-
-[9x9](https://console.cloud.google.com/storage/browser/minigo-pub)
-
-Under v?-9x9 directory you can find
-
-* data/ Tensorflow tf.Record files corresponding to raw training data
-* models/ The saved model files for each generation
-* sgf/ Zip archives of all games in .sgf form, grouped by generation
-
-[19x19](https://console.cloud.google.com/storage/browser/minigo-pub)
-
-Under v?-19x19 directory you can find
-
-* models/ The saved model files for each generation
-* sgf/ Zip archives of all games in .sgf form, grouped by generation
+  * Under v?-[19x19](https://console.cloud.google.com/storage/browser/minigo-pub) directory you can find
+    * models/ The saved model files for each generation
+    * sgf/ Zip archives of all games in .sgf form, grouped by generation
 
 11 NNGS dataset
 ======
