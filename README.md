@@ -480,9 +480,9 @@ SGF\nSGF\nSGF\n...
 
 12 ELF OpenGo dataset
 ======
-[v2-URLs.CSV](https://dl.fbaipublicfiles.com/elfopengo/v2_training_run/urls.csv)
-
-* 19,690,954 SGF files
+* [v2-dataset](https://github.com/leela-zero/leela-zero/files/2862141/selfplay_dataset.txt)
+  * 19,690,954 SGF files
+* [Analyzing Go Games by the Quality of Their Moves](https://dl.fbaipublicfiles.com/elfopengo/analysis/www/index.html)
 
 SGF
 ======
