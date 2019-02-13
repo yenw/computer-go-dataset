@@ -483,7 +483,6 @@ SGF\nSGF\nSGF\n...
 [v2-URLs.CSV](https://dl.fbaipublicfiles.com/elfopengo/v2_training_run/urls.csv)
 
 * 19,690,954 SGF files
-* 1995.07 - 2005.05
 
 SGF
 ======
