@@ -481,9 +481,10 @@ SGF\nSGF\nSGF\n...
 12 ELF OpenGo dataset
 ======
 * [Home Page](https://facebook.ai/developers/tools/elf-opengo)
-* [v2-dataset](https://github.com/leela-zero/leela-zero/files/2862141/selfplay_dataset.txt)
+* [v2-training-run](https://dl.fbaipublicfiles.com/elfopengo/v2_training_run/README)
   * 19,690,954 SGF files
-* [Analyzing Go Games by the Quality of Their Moves](https://dl.fbaipublicfiles.com/elfopengo/analysis/www/index.html)
+* [Analysis](https://dl.fbaipublicfiles.com/elfopengo/analysis/README)
+  * [Analyzing Go Games by the Quality of Their Moves](https://dl.fbaipublicfiles.com/elfopengo/analysis/www/index.html)
 
 SGF
 ======
