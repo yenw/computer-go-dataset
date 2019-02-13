@@ -25,6 +25,7 @@ Contents
 * [KGS](#9-kgs-dataset)
 * [Minigo](#10-minigo-dataset)
 * [NNGS](#11-nngs-dataset)
+* [ELF OpenGo](#12-elf-opengo-dataset)
 
 1 TYGEM dataset
 ======
@@ -475,6 +476,13 @@ SGF\nSGF\nSGF\n...
 [github](https://github.com/zenon/NNGS_SGF_Archive)
 
 * 435,495 SGF files
+* 1995.07 - 2005.05
+
+12 ELF OpenGo dataset
+======
+[v2-URLs.CSV](https://dl.fbaipublicfiles.com/elfopengo/v2_training_run/urls.csv)
+
+* 19,690,954 SGF files
 * 1995.07 - 2005.05
 
 SGF
