@@ -41,9 +41,9 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
 * date
   * YYYY.MM.DD HH:MM
 * white
-  * char[11]
-* white english
   * char[16]
+* white english
+  * char[11]
 * white nation
   * 0 Korea
   * 1 Japan
@@ -52,9 +52,9 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
   * 4 Taiwan
   * 5 China
 * black
-  * char[11]
-* black english
   * char[16]
+* black english
+  * char[11]
 * black nation
   * 0 Korea
   * 1 Japan
