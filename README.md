@@ -20,6 +20,7 @@ Contents
   * Berry Genomics Cup 2018 World AI Weiqi Competition
   * 2018 Tencent World AI WEIQI Competition
   * The 2nd World AI Go Open 2018
+  * Berry Genomics Cup 2019 World AI Weiqi Competition
 * [CGOS](#7-cgos-dataset)
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
@@ -434,6 +435,14 @@ SGF\nSGF\nSGF\n...
   * 1st: `Golaxy`
   * 2nd: `AQ`
   * 3rd: `Octopus`
+
+* Berry Genomics Cup 2019 World AI Weiqi Competition
+  * AI: `BADUKi`, `Dolbaram`, `Go Genius`, `Golaxy`, `Golois`, `Leela Zero`, `Raynz`, `YXT`
+  * 28 games
+  * 2019.04.26 - 2019.04.28
+  * 1st: `Golaxy`
+  * 2nd: `BADUKi`
+  * 3rd: `Leela Zero`
 
 7 CGOS dataset
 ======
