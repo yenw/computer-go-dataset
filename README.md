@@ -27,6 +27,7 @@ Contents
 * [Minigo](#10-minigo-dataset)
 * [NNGS](#11-nngs-dataset)
 * [ELF OpenGo](#12-elf-opengo-dataset)
+* [KataGo](#13-katago-dataset)
 
 1 TYGEM dataset
 ======
@@ -494,6 +495,13 @@ SGF\nSGF\nSGF\n...
   * 19,690,954 SGF files
 * [Analysis](https://dl.fbaipublicfiles.com/elfopengo/analysis/README)
   * [Analyzing Go Games by the Quality of Their Moves](https://dl.fbaipublicfiles.com/elfopengo/analysis/www/index.html)
+
+13 KataGo dataset
+======
+* [Home Page](https://github.com/lightvector/KataGo)
+* [dataset](https://d3dndmfyhecmj0.cloudfront.net/)
+  * [g65 (Feb 2019 run)](https://d3dndmfyhecmj0.cloudfront.net/g65/index.html)
+  * [g104 (June 2019 run)](https://d3dndmfyhecmj0.cloudfront.net/g104/index.html)
 
 SGF
 ======
