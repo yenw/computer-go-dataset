@@ -21,6 +21,7 @@ Contents
   * 2018 Tencent World AI WEIQI Competition
   * The 2nd World AI Go Open 2018
   * Berry Genomics Cup 2019 World AI Weiqi Competition
+  * 2019 China Securities Cup World AI WEIQI Open
 * [CGOS](#7-cgos-dataset)
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
@@ -444,6 +445,9 @@ SGF\nSGF\nSGF\n...
   * 1st: `Golaxy`
   * 2nd: `BADUKi`
   * 3rd: `Leela Zero`
+
+* 2019 China Securities Cup World AI WEIQI Open
+  * AI: `CGI`, `ClearStone`, `Dolbaram`, `FineArt`, `Globis-AQZ`, `Go Genius`, `Golaxy`, `HanDol`, `Handtalk`, `LeelaZero`, `MayaGo`, `Octopus`, `YaoGo`, `YiXiaoTian`
 
 7 CGOS dataset
 ======
