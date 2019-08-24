@@ -448,6 +448,12 @@ SGF\nSGF\nSGF\n...
 
 * 2019 China Securities Cup World AI WEIQI Open
   * AI: `CGI`, `ClearStone`, `Dolbaram`, `FineArt`, `Globis-AQZ`, `Go Genius`, `Golaxy`, `HanDol`, `Handtalk`, `LeelaZero`, `MayaGo`, `Octopus`, `YaoGo`, `YiXiaoTian`
+  * 51 games
+  * 2019.08.22 - 2019.08.25
+  * 1st: `FineArt`
+  * 2nd: `Golaxy`
+  * 3rd: `HanDol`
+  * 4th: `LeelaZero`
 
 7 CGOS dataset
 ======
