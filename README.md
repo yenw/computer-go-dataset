@@ -163,9 +163,9 @@ id\t;B[coord];W[coord];B[coord];W[coord]......
 
 3.2 9d vs 9d
 ------
-2013.07.09 - 2018.02.02
+2013.07.09 - 2019.10.17
 
-148,102 games
+166,184 games
 
 4 Aya's selfplay games for training value network
 ======
