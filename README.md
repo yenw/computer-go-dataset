@@ -22,6 +22,7 @@ Contents
   * The 2nd World AI Go Open 2018
   * Berry Genomics Cup 2019 World AI Weiqi Competition
   * 2019 China Securities Cup World AI WEIQI Open
+  * The 11th Computer Go UEC Cup
 * [CGOS](#7-cgos-dataset)
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
@@ -454,6 +455,14 @@ SGF\nSGF\nSGF\n...
   * 2nd: `Golaxy`
   * 3rd: `HanDol`
   * 4th: `LeelaZero`
+  
+* The 11th Computer Go UEC Cup
+  * AI: `Akira`, `BaduGI`, `BSK`, `EsArgo`, `GLOBIS-AQZ`, `Go Genius`, `Golaxy`, `Katsunari`, `Kifuwarabe`, `Kugutsu`, `Maru`, `masacts`, `mayoigo`, `Natsukaze`, `nlp`, `QuinoaIgo`, `Ray`, `Rn`
+  * 93 games
+  * 2019.12.14 - 2019.12.15
+  * 1st: `Golaxy`
+  * 2nd: `GLOBIS-AQZ`
+  * 3rd: `BaduGI`
 
 7 CGOS dataset
 ======
