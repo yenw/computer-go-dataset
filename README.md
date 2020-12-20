@@ -23,6 +23,7 @@ Contents
   * Berry Genomics Cup 2019 World AI Weiqi Competition
   * 2019 China Securities Cup World AI WEIQI Open
   * The 11th Computer Go UEC Cup
+  * 2020 World GO AI Championship
 * [CGOS](#7-cgos-dataset)
 * [LeelaZero](#8-leela-zero-dataset)
 * [KGS](#9-kgs-dataset)
@@ -463,6 +464,10 @@ SGF\nSGF\nSGF\n...
   * 1st: `Golaxy`
   * 2nd: `GLOBIS-AQZ`
   * 3rd: `BaduGI`
+
+* 2020 World GO AI Championship
+  * 1st: `Golaxy`
+  * 4th: `KataGo 40b384f with training`
 
 7 CGOS dataset
 ======
