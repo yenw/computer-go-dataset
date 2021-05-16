@@ -522,6 +522,7 @@ SGF\nSGF\nSGF\n...
 
 13 KataGo dataset
 ======
+* [KataGo Distributed Training](https://katagotraining.org/)
 * [Home Page](https://github.com/lightvector/KataGo)
 * [dataset](https://d3dndmfyhecmj0.cloudfront.net/)
   * [g65 (Feb 2019 run)](https://d3dndmfyhecmj0.cloudfront.net/g65/index.html)
