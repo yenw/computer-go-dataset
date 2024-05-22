@@ -532,7 +532,3 @@ SGF\nSGF\nSGF\n...
 SGF
 ======
 [SGF Format](http://www.red-bean.com/sgf/)
-
-Licensing
-======
-The repository is licensed under GPL v3. License is available [here](LICENSE.txt).
