@@ -54,7 +54,7 @@ TYGEM "9D vs 9D" dataset (1,516,031 games).
   * 1 Japan
   * 2 China
   * 3 USA
-  * 4 Taiwan
+  * 4 Chinese Taipei
   * 5 China
 * black
   * char[16]
