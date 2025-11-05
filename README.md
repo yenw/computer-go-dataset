@@ -31,6 +31,7 @@ Contents
 * [NNGS](#11-nngs-dataset)
 * [ELF OpenGo](#12-elf-opengo-dataset)
 * [KataGo](#13-katago-dataset)
+* [OGS](#14-ogs-dataset)
 
 1 TYGEM dataset
 ======
@@ -528,6 +529,11 @@ SGF\nSGF\nSGF\n...
   * [g65 (Feb 2019 run)](https://d3dndmfyhecmj0.cloudfront.net/g65/index.html)
   * [g104 (June 2019 run)](https://d3dndmfyhecmj0.cloudfront.net/g104/index.html)
   * [g170 (Jan 2020 run)](https://d3dndmfyhecmj0.cloudfront.net/g170/index.html)
+
+14 OGS dataset
+======
+* [Home Page](https://za3k.com/ogs/)
+* All (56 million) Go games, downloaded from [online-go.com](https://online-go.com/) (aka OGS) and redistributed with permission
 
 SGF
 ======
